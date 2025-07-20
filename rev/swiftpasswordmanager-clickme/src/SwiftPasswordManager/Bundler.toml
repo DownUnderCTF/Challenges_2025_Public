@@ -1,0 +1,6 @@
+format_version = 2
+
+[apps.SwiftPasswordManager]
+identifier = 'com.ductf.SwiftPasswordManager'
+product = 'SwiftPasswordManager'
+version = '0.1.0'

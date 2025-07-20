@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sign in to your account</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="flex h-screen bg-gray-100">
+    <div class="w-1/2 h-full hidden md:block bg-cover bg-center"
+        style="background-image: url('https://images.unsplash.com/photo-1718220216044-006f43e3a9b1?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVjaCUyMG9mZmljZXxlbnwwfHwwfHx8MA%3D%3D');">
+        <div class="h-full w-full bg-black bg-opacity-80 flex items-center justify-center">
+            <h2 class="text-white text-8xl font-semibold px-8 text-center">
+                DuwnOnder.
+            </h2>
+        </div>
+    </div>
+    <div class="w-1/2 bg-white flex items-center justify-center p-8">
+        <div class="w-full max-w-md space-y-6">
+            <h1 class="text-2xl font-semibold text-gray-900">Sign in</h1>
+            <form method="post" onsubmit="showSpinner()" class="space-y-4">
+                <div>
+                    <label for="username" class="sr-only">Username</label>
+                    <div
+                        class="flex rounded-sm border border-gray-300 shadow-sm overflow-hidden focus-within:ring focus-within:border-blue-500">
+                        <input type="text" id="username" required placeholder="jdoe"
+                            class="w-full px-3 py-2 focus:outline-none" />
+                        <span
+                            class="inline-flex items-center px-3 bg-gray-100 text-gray-600 text-sm border-l border-gray-300">
+                            @duwnonder.com
+                        </span>
+                    </div>
+                </div>
+
+                <div>
+                    <label for="password" class="sr-only">Password</label>
+                    <input type="password" id="password" required placeholder="Password"
+                        class="w-full px-3 py-2 border border-gray-300 rounded-sm shadow-sm focus:outline-none focus:ring focus:border-blue-500" />
+                </div>
+
+                <button id="submitBtn" type="submit"
+                    class="w-full bg-blue-600 text-white font-semibold py-2 rounded-sm hover:bg-blue-700 flex justify-center items-center space-x-2">
+                    <span id="btnText">Sign in</span>
+                    <div id="btnSpinner"
+                        class="hidden w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin">
+                    </div>
+                </button>
+            </form>
+
+            <div class="text-sm">
+                <a href="#" class="text-blue-600 hover:underline">Can’t access your account?</a>
+            </div>
+
+            <p class="text-xs text-gray-400 text-center pt-6 border-t">© 2025 DuwnOnder</p>
+        </div>
+    </div>
+
+</body>
+
+<script>
+    function showSpinner() {
+        const submitBtn = document.getElementById("submitBtn");
+        document.getElementById("btnText").textContent = "Signing in...";
+        document.getElementById("btnSpinner").classList.remove("hidden");
+        submitBtn.disabled = true;
+        submitBtn.classList.add("opacity-75", "cursor-not-allowed");
+    }
+</script>
+
+</html>

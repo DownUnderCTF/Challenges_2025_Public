@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c6klnhg0khicp"
+path="res://.godot/imported/pozzo.dialogue-a12de4ebbf5a62e8c2eed7a109719436.tres"
+
+[deps]
+
+source_file="res://dialgoue/pozzo.dialogue"
+dest_files=["res://.godot/imported/pozzo.dialogue-a12de4ebbf5a62e8c2eed7a109719436.tres"]
+
+[params]
+
+defaults=true

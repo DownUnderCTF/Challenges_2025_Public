@@ -1,0 +1,19 @@
+version: "0.1"
+id: scrapbooking
+name: scrapbooking
+category: misc
+description: |
+  Rummaging through the ruins of an old server and next to some scissors and glue
+  you find the remants of what looks like a PNG file. 
+
+  Author: Blue Alder
+
+
+tags:
+  - easy
+
+files:
+  - ./publish/warped.png
+
+flags:
+  - DUCTF{kn1tting_with_pngs}

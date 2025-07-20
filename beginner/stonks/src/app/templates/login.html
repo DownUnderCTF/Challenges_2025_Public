@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block headers %}
+<h1 class="rainbow rainbow_text_animated"> WHOOOO WANTS FREEE MONEY </h1>
+<h1 class="rainbow rainbow_text_animated"> SUPER STONKS HERE </h1>
+{% endblock %}
+
+{% block content %}
+<form id="item" class="rotating" method="post" action="/login">
+    <h1 class="rainbow rainbow_text_animated">LOGIN NOW</h1>
+    <input id="login-username" type="text" name=username placeholder="Username" />
+    <input id="login-password" type="password" name=password placeholder="Password" />
+    <input id="login-submit" type="submit" value="Login" />
+</form>
+<a href="/register">
+    <h1 class="rainbow rainbow_text_animated">CLICK TO REGISTER AN ACCOUNT</h1>
+</a>
+{% endblock %}
+
+{% block scripts %}
+<script src="/js/button.js"></script>
+{% endblock %}
+
+{% block boringheaders %}
+<h1 class="rainbow rainbow_text_animated"> WHOOOO WANTS FREEE MONEY </h1>
+<h1 class="rainbow rainbow_text_animated"> SUPER STONKS HERE </h1>
+{% endblock %}
+
+{% block boringcontent %}
+<form id="item" method="post" action="/login">
+    <h1 class="rainbow rainbow_text_animated">LOGIN NOW</h1>
+    <input id="login-username" type="text" name=username placeholder="Username" />
+    <input id="login-password" type="password" name=password placeholder="Password" />
+    <input id="login-submit" type="submit" value="Login" />
+</form>
+<a href="/register">
+    <h1 class="rainbow rainbow_text_animated">CLICK TO REGISTER AN ACCOUNT</h1>
+</a>
+{% endblock %}

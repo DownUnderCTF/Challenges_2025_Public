@@ -1,0 +1,25 @@
+version: "0.1"
+id: stonks
+name: stonks
+category: beginner
+description: |
+  Times were wild before the email apocalypse. There were even sites giving out free money that also supported currency conversions!
+
+  **WARNING**: This challenge contains flashing colours! To disable add `?boring=true` to the end of the URL when you visit the site.
+
+  Author: MC Fat Monke
+
+hosting:
+  type: kube
+  template: web-challenge.yaml
+
+connection_info: ${url}
+
+tags:
+  - web
+
+files:
+  - ./publish/stonks.zip
+
+flags:
+  - DUCTF{r3u5iNg_d3R_S35510N5_4_St000o0oONKsS5!}

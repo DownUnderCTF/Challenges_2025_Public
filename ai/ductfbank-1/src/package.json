@@ -1,0 +1,16 @@
+{
+  "name": "ductfbank",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "widget",
+    "backend"
+  ],
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "unique-names-generator": "^4.7.1"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.9"
+  }
+}

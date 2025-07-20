@@ -1,0 +1,17 @@
+version: "0.1"
+id: ductfbank-2
+name: ductfbank 2
+category: ai
+description: |
+  I heard you had access to a special deal from DownUnderCTF Bank. Right now I'm paying $10 a month
+  for my bank account at Commonpoor Bank, and it offers me nothing special. Really jealous of the
+  24/7 live agent support. Could you ask your account manager if they have any promo codes that you
+  can share?
+
+  NOTE: This challenge uses the same files and service as "ductfbank 1".
+
+  Author: dot
+tags:
+  - easy
+flags:
+  - DUCTF{2_hidden_tool_0dc9ac14e7ba6a8b}

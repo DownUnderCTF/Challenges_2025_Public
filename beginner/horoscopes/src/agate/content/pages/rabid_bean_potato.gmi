@@ -1,0 +1,13 @@
+# Rabid Bean Potato 
+
+This is a bean, a potato, a rabbit, a banana, and a carrot.
+
+## Solution
+
+The rabbit is a rabbit, the banana is a banana, the potato is a potato, and the bean is a bean.
+
+Furthermore, the rabbit is a rabid animal, the banana is a fruit, the potato is a vegetable, and the bean is a legume.
+
+Finally, the rabbit is a rabid animal, the banana is a fruit, the potato is a vegetable, and the bean is a legume.
+
+DUCTF{rabbit_is_rabbit_bean_is_bean_potato_is_potato_banana_is_banana_carrot_is_carrot}

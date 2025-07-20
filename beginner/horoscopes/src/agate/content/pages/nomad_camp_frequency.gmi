@@ -1,0 +1,14 @@
+# Wasteland Network Node 15O
+
+=> gemini://[::1]/<corrupted_data_15> "Corrupted Data"
+
+Signal strength: 92%
+
+## Local Chatter
+
+* "The water caravan is late." - Settler
+* "I'm looking for a lost Brahmin." - Rancher
+* "I'm selling stimpaks." - Medic
+
+=> gemini://[::1]/<local_map_fragment_15> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_15> "Encrypted Message (Unreadable)"

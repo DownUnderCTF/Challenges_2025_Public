@@ -1,0 +1,7 @@
+services:
+  mysterious_vault:
+    container_name: mysterious_vault
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

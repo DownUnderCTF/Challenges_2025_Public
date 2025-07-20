@@ -1,0 +1,19 @@
+
+# The Deep Range
+
+The story of a man who herds whales.
+
+=> the_deep_range.gmi
+=> ../../index.gmi
+
+> I am a warden of the deep. A shepherd of the whales.
+
+> They are my flock. My family.
+
+> We roam the oceans of the world. We are free.
+
+> But the world is changing. The oceans are dying.
+
+> And we are the last of our kind.
+
+> ...a lament for a dying world...

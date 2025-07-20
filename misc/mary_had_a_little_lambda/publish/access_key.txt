@@ -1,0 +1,4 @@
+[devopsadmin]
+aws_access_key_id=AKIAXXXXXXXXXXXXXXXX
+aws_secret_access_key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+region=us-east-1

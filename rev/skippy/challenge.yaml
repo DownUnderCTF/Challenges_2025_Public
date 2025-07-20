@@ -1,0 +1,17 @@
+version: "0.1"
+id: skippy
+name: skippy
+category: rev
+description: |
+  Skippy seems to be in a bit of trouble skipping over some sandwiched functions. Help skippy get across with a hop, skip and a jump!
+
+  Author: jzt
+
+tags:
+  - easy
+
+files:
+  - ./publish/skippy.exe
+
+flags:
+  - DUCTF{There_echoes_a_chorus_enending_and_wild_Laughter_and_gossip_unruly_and_piled}

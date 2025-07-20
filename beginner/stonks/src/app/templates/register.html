@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block headers %}
+<h1 class="rainbow rainbow_text_animated"> WHOOOO WANTS FREEE MONEY </h1>
+<h1 class="rainbow rainbow_text_animated"> SUPER STONKS HERE </h1>
+{% endblock %}
+
+{% block content %}
+<form id="item" class="rotating" method="post" action="/register">
+    <strong class="rainbow rainbow_text_animated">REGISTER NOW</strong>
+    <input id="login-username" type="text" name=username placeholder="Username" />
+    <input id="login-password" type="password" name=password placeholder="Password" />
+    <input id="login-password" type="password" name=confirm_password placeholder="Confirm Password" />
+    <input id="login-submit" type="submit" value="Register" />
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script src="/js/button.js"></script>
+{% endblock %}
+
+{% block boringheaders %}
+<h1 class="rainbow rainbow_text_animated"> WHOOOO WANTS FREEE MONEY </h1>
+<h1 class="rainbow rainbow_text_animated"> SUPER STONKS HERE </h1>
+{% endblock %}
+
+{% block boringcontent %}
+<form id="item" method="post" action="/register">
+    <strong class="rainbow rainbow_text_animated">REGISTER NOW</strong>
+    <input id="login-username" type="text" name=username placeholder="Username" />
+    <input id="login-password" type="password" name=password placeholder="Password" />
+    <input id="login-password" type="password" name=confirm_password placeholder="Confirm Password" />
+    <input id="login-submit" type="submit" value="Register" />
+</form>
+{% endblock %}

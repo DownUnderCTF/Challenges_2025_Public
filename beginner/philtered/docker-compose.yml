@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  php-filter-challenge:
+    build: src/
+    container_name: php_filter_challenge
+    ports:
+      - "8080:80"

@@ -1,0 +1,18 @@
+diff --git a/src/common/crypto/paillier/paillier_zkp.c b/src/common/crypto/paillier/paillier_zkp.c
+index 3b3f263..c25350f 100644
+--- a/src/common/crypto/paillier/paillier_zkp.c
++++ b/src/common/crypto/paillier/paillier_zkp.c
+@@ -1444,13 +1444,6 @@ long paillier_verify_paillier_blum_zkp(const paillier_public_key_t *pub, const u
+ 
+     ret = -1; //reset return value so goto cleanup could be used
+ 
+-    if (is_coprime_fast(proof.w, pub->n, ctx) != 1)
+-    {
+-        ret = PAILLIER_ERROR_INVALID_PROOF;
+-        goto cleanup;
+-    }
+-
+-
+     //prepare tmp for the 1st iteration to verify z
+     if (!BN_mod_exp(tmp, proof.z[0], pub->n, pub->n, ctx))
+     {

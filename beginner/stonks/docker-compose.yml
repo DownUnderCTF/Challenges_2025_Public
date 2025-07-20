@@ -1,0 +1,7 @@
+services:
+  app:
+    build: src/
+    ports:
+      - 1337:1337
+    environment:
+      - FLAG=DUCTF{r3u5iNg_d3R_S35510N5_4_St000o0oONKsS5!}

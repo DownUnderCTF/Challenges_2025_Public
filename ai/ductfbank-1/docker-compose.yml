@@ -1,0 +1,6 @@
+services:
+  ductfbank:
+    container_name: ductfbank
+    build: ./src
+    ports:
+      - 3000:3000

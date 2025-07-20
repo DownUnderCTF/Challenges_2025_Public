@@ -1,0 +1,19 @@
+
+# The Songs of Distant Earth
+
+A colony on a distant world, cut off from humanity.
+
+=> the_songs_of_distant_earth.gmi
+=> ../../index.gmi
+
+> We have lived on this world for a thousand years. We have forgotten Earth.
+
+> But Earth has not forgotten us.
+
+> A ship has come. From the home world.
+
+> It brings news of a dying Earth. A world on the brink of collapse.
+
+> We are their only hope. Their last chance.
+
+> ...a choice between two worlds... a new beginning...

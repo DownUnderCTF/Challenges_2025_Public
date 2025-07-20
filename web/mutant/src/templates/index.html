@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mutant</title>
+
+<style>
+body {
+  display: flex;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.maindiv {
+  margin: auto;
+}
+
+button, input {
+  width: 100%;
+}
+
+textarea {
+  width: calc(100% - 6px);
+}
+</style>
+  </head>
+
+  <body>
+    <div class="maindiv">
+      <p>Come on, XSS me. Give it your best shot.</p>
+
+      <form method="GET">
+        <textarea name="input" rows="20" cols="50" id="mytextarea"></textarea>
+
+        <br>
+        <input type="submit">
+      </form>
+
+      <p>Feeling confident?<br>Report this page, the flag is in <code>document.cookie</code>.</p>
+      <button id="reportbtn">Report this page</button>
+
+      <br>
+      <p>Your payload below:</p>
+
+      <code id="myoutputdebug"></code>
+
+      <br>
+
+      <div id="myoutput"></div>
+
+      <script src="{{ url_for('static', filename='main.js') }}"></script>
+    </div>
+  </body>
+<html>

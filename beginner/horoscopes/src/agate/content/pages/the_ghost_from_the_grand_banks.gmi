@@ -1,0 +1,19 @@
+
+# The Ghost from the Grand Banks
+
+A plan to raise the Titanic.
+
+=> the_ghost_from_the_grand_banks.gmi
+=> ../../index.gmi
+
+> We have found it. The Titanic.
+
+> It is a ghost ship. A tomb for the dead.
+
+> But we will raise it. We will bring it back to the surface.
+
+> It is a monument to human folly. And to human resilience.
+
+> It is a reminder that even in the darkest of times, there is always hope.
+
+> ...a ghost from the past... a message for the future...

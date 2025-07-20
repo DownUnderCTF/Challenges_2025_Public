@@ -1,0 +1,17 @@
+
+# The Fountains of Paradise
+
+A space elevator that connects the Earth to the stars.
+
+=> the_fountains_of_paradise.gmi
+=> ../../index.gmi
+
+> We have built it. The tower of Babel.
+
+> It reaches to the heavens. It is our gateway to the cosmos.
+
+> We are no longer bound to this world. We are free to explore the universe.
+
+> But have we become gods? Or have we just found a new way to fall?
+
+> ...a storm is gathering... a single, fatal flaw...

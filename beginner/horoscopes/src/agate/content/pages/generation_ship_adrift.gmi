@@ -1,0 +1,19 @@
+
+# Generation Ship Adrift
+
+A vessel lost for centuries. A forgotten colony.
+
+=> generation_ship_adrift.gmi
+=> ../../index.gmi
+
+> We have found the 'Odyssey'. A ship that was thought to be a myth.
+
+> It is a ghost ship. No signs of life.
+
+> The logs tell a story of hope and despair. Of a journey that never ended.
+
+> They were looking for a new home. A new Eden.
+
+> But they found only the void. And the madness that comes with it.
+
+> ...a single, cryptic message... "The angels have come for us"...

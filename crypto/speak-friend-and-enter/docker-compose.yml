@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  "speak-friend-and-enter":
+    container_name: speak-friend-and-enter
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

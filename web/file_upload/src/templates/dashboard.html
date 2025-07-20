@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DUCTF epic file upload app</title>
+  </head>
+
+  <body>
+    <h1>DUCTF epic file upload app</h1>
+
+    <p>Your uploaded files:</p>
+
+    {% for upload in uploads %}
+    <img src="{{other_domain}}/{{upload}}">
+    <a href="/open_file?id={{loop.index}}">Open in new tab</a>
+    <br>
+    {% endfor %}
+
+    <p>Upload a file</p>
+
+    <form action="/upload" enctype="multipart/form-data" method="POST">
+      <input type="file" name="file">
+      <input type="submit">
+    </form>
+
+    <p>Report a suspicious URL to admin</p>
+    <p>Note: I wonder what files the admin has uploaded?</p>
+
+    <form action="/report" method="POST">
+      <input name="url">
+      <input type="submit">
+    </form>
+  </body>
+</html>

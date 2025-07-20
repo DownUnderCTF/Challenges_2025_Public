@@ -1,0 +1,19 @@
+
+# 2061: Odyssey Three
+
+The return to Halley's Comet.
+
+=> 2061_odyssey_three.gmi
+=> ../../index.gmi
+
+> We have returned to the comet. It is not the same.
+
+> It is a gateway. A portal to another place.
+
+> We are going through. To see what is on the other side.
+
+> We are not afraid. We are explorers.
+
+> And we are ready for anything.
+
+> ...a journey into the unknown...

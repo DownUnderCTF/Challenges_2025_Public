@@ -1,0 +1,19 @@
+
+# Islands in the Sky
+
+A story of a young man who lives on a space station.
+
+=> islands_in_the_sky.gmi
+=> ../../index.gmi
+
+> I have never known Earth. I have only known the stars.
+
+> This space station is my home. My world.
+
+> But I dream of Earth. Of green fields and blue oceans.
+
+> And one day, I will go there. I will see the world of my ancestors.
+
+> And I will find my place in the universe.
+
+> ...a journey of self-discovery...

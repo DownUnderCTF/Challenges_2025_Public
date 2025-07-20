@@ -1,0 +1,19 @@
+
+# Rendezvous with Rama
+
+A mysterious alien spacecraft enters the solar system.
+
+=> rendezvous_with_rama.gmi
+=> ../../index.gmi
+
+> We have entered Rama. It is a world in itself.
+
+> A cylindrical sea. A city of towers. A sky of artificial suns.
+
+> It is a testament to a civilization that is far beyond our own.
+
+> But where are the Ramans? Are they still here?
+
+> Or are we just visitors in a mausoleum?
+
+> ...a single, enigmatic message... "The Ramans do everything in threes"...

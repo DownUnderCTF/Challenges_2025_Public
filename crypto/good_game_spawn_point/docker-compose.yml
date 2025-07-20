@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  "good-game-spawn-point":
+    container_name: good-game-spawn-point
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

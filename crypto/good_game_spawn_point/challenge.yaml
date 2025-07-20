@@ -1,0 +1,24 @@
+version: "0.1"
+id: good-game-spawn-point
+name: good game spawn point
+category: crypto
+description: |
+  it's 4pm on a school afternoon. you just got home, tossed your bag on the
+  floor, and turned on ABC3. it's time.. for GGSP
+
+  Author: wednesday
+
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - medium
+
+files:
+  - ./publish/chal.py
+
+flags:
+  - DUCTF{g00d_gam3_5pawnling_533_y0u_in_th3_n3xt_chall3ng3}

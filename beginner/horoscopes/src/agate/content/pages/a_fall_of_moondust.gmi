@@ -1,0 +1,19 @@
+
+# A Fall of Moondust
+
+A tourist vehicle sinks into a sea of dust on the Moon.
+
+=> a_fall_of_moondust.gmi
+=> ../../index.gmi
+
+> We are trapped. Buried alive.
+
+> We have only a few hours of air left.
+
+> But we will not die in vain. We will not die in fear.
+
+> We will die as we lived. As explorers.
+
+> And we will die with hope in our hearts.
+
+> ...a final, desperate message...

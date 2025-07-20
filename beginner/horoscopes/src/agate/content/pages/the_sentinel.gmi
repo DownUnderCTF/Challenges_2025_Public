@@ -1,0 +1,19 @@
+
+# The Sentinel
+
+The story that inspired 2001: A Space Odyssey.
+
+=> the_sentinel.gmi
+=> ../../index.gmi
+
+> We have found it. On the Moon.
+
+> A crystal pyramid. A sentinel.
+
+> It has been waiting for us. For millions of years.
+
+> It has a message for us. A warning.
+
+> The universe is not for us. We are not welcome here.
+
+> ...a challenge to our pride... a test of our courage...

@@ -1,0 +1,25 @@
+version: "0.1"
+id: entangled-revenge
+name: entangled revenge
+category: pwn
+description: |
+  What will you do now that you are not so isolated?
+
+  NOTE: This is a revenge challenge of `entangled` which fixes an unintended solution in the deployment. The `Dockerfile` has been updated to make the flag filename random, the `challenge.diff` file has been fixed and `d8` has been rebuilt.
+
+  Author: grub
+
+hosting:
+  type: {hostingType}
+  template: {hostingTemplate}
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - hard
+
+files:
+  - ./publish/entangled-revenge.tar
+
+flags:
+  - DUCTF{PWN_by_cr0ss_c0nt4m1n4t10n_fb2350f419d8fd32934c6178a463d157}

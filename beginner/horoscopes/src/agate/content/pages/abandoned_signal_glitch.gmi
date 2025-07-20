@@ -1,0 +1,14 @@
+# Wasteland Network Node 2B
+
+=> gemini://[::1]/<corrupted_data_2> "Corrupted Data"
+
+Signal strength: 42%
+
+## Local Chatter
+
+* "The water is bad today." - Anonymous
+* "Don't go near the old factory." - Worried Traveler
+* "I saw a pack of wild dogs." - Scavenger
+
+=> gemini://[::1]/<local_map_fragment_2> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_2> "Encrypted Message (Unreadable)"

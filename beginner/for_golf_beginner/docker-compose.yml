@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  "for-golf-beginner":
+    container_name: for-golf-beginner
+    build: src/
+    ports:
+      - 10809:10809

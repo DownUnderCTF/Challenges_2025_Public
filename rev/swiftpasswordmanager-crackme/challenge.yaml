@@ -1,0 +1,16 @@
+version: '0.1'
+id: spm-crackme
+name: 'SwiftPasswordManager: CrackMe'
+category: rev
+description: |
+  If you choose a good password, you might get a flag!
+
+  NOTE: This challenge uses the same handout app as "SwiftPasswordManager: ClickMe"
+
+  Author: joseph
+
+tags:
+  - hard
+
+flags:
+  - DUCTF{cho05iNg_A_p4s5W0rd_15_h4Rd...}

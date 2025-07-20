@@ -1,0 +1,19 @@
+version: "0.1"
+id: mysterious-vault
+name: Mysterious Vault
+category: pwn
+description: |
+  You've discovered a mysterious vault exposed on a server - surely, if you can break in, great rewards will follow...
+
+  Author: ItsIronicIInsist
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - medium
+
+files:
+  - ./publish/mysterious-vault.zip
+
+flags:
+  - DUCTF{pushing_and_popping_and_so_on_and_so_forth}

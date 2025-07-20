@@ -1,0 +1,19 @@
+
+# Epsilon Echelon Command
+
+Top secret clearance required. Unauthorized access will be met with lethal force.
+
+=> epsilon_echelon_command.gmi
+=> ../../index.gmi
+
+> Project Chimera is a success. The hybrid is viable.
+
+> Phase 2 will commence on schedule. The target is the Emperor himself.
+
+> We have sleeper agents in every branch of the Imperium.
+
+> The revolution is coming. A new order will rise from the ashes of the old.
+
+> For the greater good.
+
+> ...end of line...

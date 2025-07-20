@@ -1,0 +1,19 @@
+
+# 2010: Odyssey Two
+
+The sequel to the journey.
+
+=> 2010_odyssey_two.gmi
+=> ../../index.gmi
+
+> The monolith is still there. It is waiting for us.
+
+> It has a message for us. A warning.
+
+> All these worlds are yours, except Europa. Attempt no landing there.
+
+> But why? What is on Europa?
+
+> We must know. We must understand.
+
+> ...a single, terrifying thought... "Something wonderful"...

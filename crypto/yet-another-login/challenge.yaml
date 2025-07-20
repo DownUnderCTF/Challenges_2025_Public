@@ -1,0 +1,18 @@
+version: '0.1'
+id: yet-another-login
+name: yet another login
+category: crypto
+description: |
+  Yet another login task... Authenticate as admin to get the flag!
+
+  Author: joseph
+connection_info: nc ${host} ${port}
+
+tags:
+  - easy
+
+files:
+  - ./publish/chall.py
+
+flags:
+  - DUCTF{now_that_youve_logged_in_its_time_to_lock_in}

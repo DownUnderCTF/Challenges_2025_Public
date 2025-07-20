@@ -1,0 +1,19 @@
+
+# The Wall of Serpents
+
+A story of a man who must cross a desert guarded by giant serpents.
+
+=> the_wall_of_serpents.gmi
+=> ../../index.gmi
+
+> I have come to the Wall of Serpents. The final obstacle.
+
+> The serpents are ancient. They are powerful. And they are hungry.
+
+> But I am not afraid. I have a secret weapon.
+
+> I have the one thing that the serpents fear.
+
+> I have the one thing that can defeat them.
+
+> ...a battle of wits... a test of courage...

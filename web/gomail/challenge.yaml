@@ -1,0 +1,23 @@
+version: "0.1"
+id: gomail
+name: gomail
+category: web
+description: |
+  We received intel that before the email apocalypse the DUCTF admin team emailed MC Fat Monke with a new flag, since the monke kept on leaking flags...
+
+  Author: MC Fat Monke
+
+hosting:
+  type: kube
+  template: web-challenge.yaml
+
+connection_info: ${url}
+
+tags:
+  - easy
+
+files:
+  - ./publish/gomail.zip
+
+flags:
+  - DUCTF{g0v3rFloW_2_mY_eM41L5!}

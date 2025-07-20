@@ -1,0 +1,19 @@
+
+# Kappa Fornacis Remnant
+
+Supernova remnant. Rich in rare minerals.
+
+=> kappa_fornacis_remnant.gmi
+=> ../../index.gmi
+
+> Mining operations proceeding as scheduled. Yield is above projections.
+
+> We have found something unusual. A crystalline structure of immense size.
+
+> It is resonating. Emitting a low-frequency hum.
+
+> The miners are reporting strange visions. Hallucinations.
+
+> The crystal is... singing.
+
+> ...we hear the music of the spheres...

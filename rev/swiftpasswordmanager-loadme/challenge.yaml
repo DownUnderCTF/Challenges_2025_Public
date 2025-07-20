@@ -1,0 +1,19 @@
+version: '0.1'
+id: spm-loadme
+name: 'SwiftPasswordManager: LoadMe'
+category: rev
+description: |
+  I used the app to save a password before realising that the Load button doesn't do anything... Can you help me load my passwords? The master password is `DUCTF2025!`.
+
+  NOTE: This challenge uses the same handout app as "SwiftPasswordManager: ClickMe"
+
+  Author: joseph
+
+tags:
+  - medium
+
+files:
+  - ./publish/passwords.spm
+
+flags:
+  - DUCTF{the_password_is_cool_but_the_flag_is_even_cooler}

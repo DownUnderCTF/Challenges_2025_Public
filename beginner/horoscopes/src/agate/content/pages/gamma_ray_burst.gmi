@@ -1,0 +1,19 @@
+
+# Gamma Ray Burst
+
+Radiation levels critical. Seek shelter immediately.
+
+=> gamma_ray_burst.gmi
+=> ../../index.gmi
+
+> Warning: High energy particle wave detected. All systems failing.
+
+> Navigation offline. Adrift in the void.
+
+> Communications jammed. No contact with command.
+
+> Life support at 25%. Oxygen levels dropping.
+
+> Hull integrity compromised. Catastrophic failure imminent.
+
+> ...static...

@@ -1,0 +1,24 @@
+version: "0.1"
+id: good-game-well-played
+name: good game well played
+category: crypto
+description: |
+  These protocols are all so computationally expensive.. maybe we can lighten the
+  load by removing some unnecessary checks?
+
+  Author: wednesday
+
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - hard
+
+files:
+  - ./publish/ggwp.tar.gz
+
+flags:
+  - DUCTF{w0w_pailli3r_skip_sav3s_12_s3c0nds_0ff_th3_any_p3rc3nt_run}

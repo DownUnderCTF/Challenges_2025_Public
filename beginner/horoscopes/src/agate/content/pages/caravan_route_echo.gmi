@@ -1,0 +1,14 @@
+# Wasteland Network Node 4D
+
+=> gemini://[::1]/<corrupted_data_4> "Corrupted Data"
+
+Signal strength: 73%
+
+## Local Chatter
+
+* "There's a new trader in town." - Merchant
+* "The rads are high today." - Doctor
+* "I'm looking for work." - Mercenary
+
+=> gemini://[::1]/<local_map_fragment_4> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_4> "Encrypted Message (Unreadable)"

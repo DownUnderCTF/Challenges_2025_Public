@@ -1,0 +1,14 @@
+version: "0.1"
+id: fat-donke-diss
+name: fat donke diss
+category: osint
+description: |
+  ain't no fat donke tryin to spit bars on the fat monke
+
+  Author: MC Fat Monke
+
+tags:
+  - easy
+
+flags:
+  - DUCTF{I_HAVE_NOT_THOUGHT_UP_OF_A_FLAG_YET}

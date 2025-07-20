@@ -1,0 +1,18 @@
+version: "0.1"
+id: wiki
+name: Wiki
+category: beginner
+description: |
+  Use the Wiki to find the flag...
+
+  NOTE: This challenge is a continuation of "Horoscopes", we recommend you complete that challenge first!
+
+  Author: pix
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - misc
+
+flags:
+  - DUCTF{rabbit_is_rabbit_bean_is_bean_potato_is_potato_banana_is_banana_carrot_is_carrot}

@@ -1,0 +1,19 @@
+
+# Alpha Legion Strike
+
+Hydra Dominatus. For the Emperor.
+
+=> alpha_legion_strike.gmi
+=> ../../index.gmi
+
+> We have been expecting you. Your security is a joke.
+
+> We are Alpharius. We are everywhere.
+
+> You cannot stop us. You cannot even find us.
+
+> Your secrets are ours. Your base is ours.
+
+> The serpent is coiled. The strike is inevitable.
+
+> ...I am Alpharius...

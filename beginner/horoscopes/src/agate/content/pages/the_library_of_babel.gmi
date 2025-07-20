@@ -1,0 +1,19 @@
+
+# The Library of Babel
+
+A library that contains every possible book.
+
+=> the_library_of_babel.gmi
+=> ../../index.gmi
+
+> I have wandered the library for an eternity. I have seen every book.
+
+> Most are gibberish. A random collection of letters.
+
+> But some are... meaningful. They tell stories. They contain knowledge.
+
+> I have found the book that tells the story of my life.
+
+> And I have found the book that tells the story of the universe.
+
+> ...but I have not found the book that tells me how to get out...

@@ -1,0 +1,20 @@
+version: '0.1'
+id: rwpy
+name: rw.py
+category: pwn
+description: |
+  a read and a write, what more could you ask for?
+
+  Author: joseph
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - medium
+
+files:
+  - ./publish/rw.py
+  - ./publish/Dockerfile
+
+flags:
+  - DUCTF{see_python_exploitation_can_be_fun_if_memory_corruption_is_involved}

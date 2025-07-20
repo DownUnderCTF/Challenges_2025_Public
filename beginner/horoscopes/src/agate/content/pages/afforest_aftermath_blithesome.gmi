@@ -1,0 +1,14 @@
+# Wasteland Network Node 1A
+
+=> gemini://[::1]/<corrupted_data> "Corrupted Data"
+
+Welcome, traveler, to this node on the Wasteland Network. The signal is weak today, but we persist. 
+
+## Broadcasts
+
+* "Saw a caravan heading towards the old city. They looked well-armed." - Anonymous
+* "Water purifier is on the fritz again. Anyone got a spare filter?" - Operator 7
+* "The sandstorm is coming. Batten down the hatches." - Weather Station
+
+=> gemini://[::1]/<random_thoughts> "Random Thoughts"
+=> gemini://[::1]/<market_data> "Market Data (Outdated)"

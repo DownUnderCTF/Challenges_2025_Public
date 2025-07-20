@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  "good-game-well-played":
+    container_name: good-game-well-played
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

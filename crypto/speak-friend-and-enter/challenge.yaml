@@ -1,0 +1,20 @@
+version: '0.1'
+id: speak-friend-and-enter
+name: Speak Friend, and Enter
+category: crypto
+description: |
+  I will happily give you the flag... if you can sign my challenge!
+
+  Author: cybears:cipher
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - medium
+  - osint
+
+files:
+  - ./publish/server.py
+
+flags:
+  - DUCTF{Z3n_th3_fl@g_Out!}

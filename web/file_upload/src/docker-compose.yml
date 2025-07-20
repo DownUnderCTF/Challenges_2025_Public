@@ -1,0 +1,23 @@
+services:
+  webapp:
+    build: .
+    ports:
+      - 5000:5000
+      - 9000:9000
+    environment:
+      # In the real deployment, there will need to be two different domains for the different ports
+      PORT_9000_URL: "http://localhost:9000"
+      PORT_5000_URL: "http://localhost:5000"
+      # XSS bot url (across internal network)
+      INTERNAL_XSS_BOT_URL: "http://xssbot"
+      # Token for logging the bot in.
+      BOT_TOKEN: 17f31f313db3a2377d9ce8bb23a25ca522dbbcae67af66fab6c9628c146f6a19
+
+  xssbot:
+    image: ghcr.io/downunderctf/docker-vendor/xssbot:chrome
+    privileged: true
+    environment:
+      - NODE_ENVIRONMENT=development
+      - OUTBOUND_AUTH_METHOD=http-get
+      # This MUST be the external (https) url of the app
+      - OUTBOUND_AUTH_HTTP_GET_URL=http://webapp:9000/bot-login?token=17f31f313db3a2377d9ce8bb23a25ca522dbbcae67af66fab6c9628c146f6a19

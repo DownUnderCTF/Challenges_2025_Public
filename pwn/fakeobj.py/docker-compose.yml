@@ -1,0 +1,7 @@
+services:
+  fakeobjpy:
+    container_name: fakeobjpy
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

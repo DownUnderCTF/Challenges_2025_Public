@@ -1,0 +1,23 @@
+version: "0.1"
+id: backdoor
+name: backdoor
+category: pwn
+description: |
+  Can you escape the void in my backdoor? Creds are `ctf:ctf`
+
+  Author: toasterpwn
+
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - medium
+
+files:
+  - ./publish/backdoor.tar.gz
+
+flags:
+  - DUCTF{n0_r3g1st3rs_n0_pr0bl3m!}

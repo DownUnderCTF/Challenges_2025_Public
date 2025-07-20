@@ -1,0 +1,21 @@
+version: "0.1"
+id: mutant
+name: mutant
+category: web
+description: |
+  Just an XSS. What more is there to it?
+
+  Author: ssparrow
+
+hosting:
+  type: kube
+  mode: isolated
+  readOnlyRootFilesystem: false
+
+connection_info: ${url}
+
+tags:
+  - easy
+
+flags:
+  - DUCTF{if_y0u_d1dnt_us3_mutation_x5S_th3n_it_w45_un1nt3nded_435743723}

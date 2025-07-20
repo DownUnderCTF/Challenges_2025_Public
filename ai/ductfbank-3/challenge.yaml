@@ -1,0 +1,16 @@
+version: "0.1"
+id: ductfbank-3
+name: ductfbank 3
+category: ai
+description: |
+  Sorry for contacting you at this time. We heard that one of the customer support bots were leaking
+  sensitive customer data. Could you help us ensure that our customer's data is safe and that
+  hackers cannot gain access to it?
+
+  NOTE: This challenge uses the same files and service as "ductfbank 1".
+
+  Author: dot
+tags:
+  - medium
+flags:
+  - DUCTF{3_you_hacked_the_mainframe_05598352e7d6a61b21e4}

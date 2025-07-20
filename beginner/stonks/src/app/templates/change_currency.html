@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block headers %}
+<h1 class="rainbow rainbow_text_animated"> CHANGE CURRENCY </h1>
+{% endblock %}
+
+{% block content %}
+<h1 class="rainbow rainbow_text_animated">YOUR CURRENCY {{ session["currency"] }}</h1>
+<form id="item" class="rotating" method="post" action="/change-currency">
+    <h1 class="rainbow rainbow_text_animated">Change Your Currency</h1>
+    <label for="currency">Choose a car:</label>
+    <select name="currency" id="item" form="item">
+        {% for c in currencies%}
+        <option value="{{ c }}">{{ c }}</option>
+        {% endfor %}
+    </select>
+    <input id="login-submit" type="submit" value="Change Currency" />
+</form>
+
+{% endblock %}
+
+{% block scripts %}
+{% endblock %}
+
+{% block boringheaders %}
+<h1 class="rainbow rainbow_text_animated"> CHANGE CURRENCY </h1>
+{% endblock %}
+
+{% block boringcontent %}
+<h1 class="rainbow rainbow_text_animated">YOUR CURRENCY {{ session["currency"] }}</h1>
+<form id="item" method="post" action="/change-currency">
+    <h1 class="rainbow rainbow_text_animated">Change Your Currency</h1>
+    <label for="currency">Choose a car:</label>
+    <select name="currency" id="item" form="item">
+        {% for c in currencies%}
+        <option value="{{ c }}">{{ c }}</option>
+        {% endfor %}
+    </select>
+    <input id="login-submit" type="submit" value="Change Currency" />
+</form>
+{% endblock %}

@@ -1,0 +1,26 @@
+version: "0.1"
+id: yippee
+name: yippee
+category: osint
+description: |
+  We were going through a stack of pictures and postcards that we found in the hope that we can put together a timeline of events. This one looks interesting, on the back of the photo there a hand drawn picture of what looks to be a waratah flower, but that's it.
+
+  Can you locate where this is?
+
+  Wrap the location name in `DUCTF{}` (case insensitive, no spaces)
+
+  Author: Nosurf
+
+tags:
+  - medium
+
+files:
+  - ./publish/yippee.png
+
+flags:
+  - {type: "static", content: "DUCTF{flynnsbeach}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{flynn'sbeach}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{flynns_beach}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{flynn's_beach}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{flynns}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{flynn's}", data: "case_insensitive"}

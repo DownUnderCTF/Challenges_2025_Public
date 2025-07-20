@@ -1,0 +1,30 @@
+version: "0.1"
+id: horoscopes
+name: Horoscopes
+category: beginner
+description: |
+
+  Forwarded Mail:
+
+  > Hey Sis! Its getting pretty bad out here.. they keep telling us to connect on this new
+  > and improved protocol. The regular web is being systematically attacked and compromised
+  >
+  > Little Tommy has been born! He's a Taurus just a month before matching his mum and dad! 
+  > Hope to see you all for Christmas
+  >
+  > Love, XXXX
+
+  Author: pix
+
+hosting:
+  type: tcp
+  containerPort: 1965
+  readOnlyRootFilesystem: false
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - misc
+
+flags:
+  - DUCTF{g3mini_pr0t0col_s4ved_us}

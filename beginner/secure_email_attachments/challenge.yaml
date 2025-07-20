@@ -1,0 +1,25 @@
+version: "0.1"
+id: secure-email-attachments
+name: secure email attachments
+category: beginner
+description: |
+  During the email apocalypse, IT admins tried to prevent the DOS of all systems by disallowing attachments to emails.
+  To get around this, users would create their own file storage web servers for hosting their attachments, which also got DOSed because everyone was mass spamming the links in emails...
+
+  *Can you read `/etc/flag.txt` from the filesystem?*
+
+  Author: MC Fat Monke
+
+hosting:
+  type: tcp
+
+connection_info: http://${host}:${port}
+
+tags:
+  - web
+
+files:
+  - ./publish/secure_email_attachments.zip
+
+flags:
+  - DUCTF{w00000000T!!1one!?!ONE_i_ThORt_tH3_p4RtH_w4R_cL34N!!1??}

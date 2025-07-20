@@ -1,0 +1,19 @@
+version: "0.1"
+id: mini-me
+name: mini-me
+category: web
+description: |
+  The app looks scrambled and full of brainrot! But ther's more than meets the eye. Dive into the code, connect the dots, and see if you can uncover what's really going on behind the scenes, or right at the front!
+
+  Author: richighimi
+
+connection_info: ${url}
+
+tags:
+  - easy
+
+files:
+  - ./publish/main-app.zip
+
+flags:
+  - DUCTF{Cl13nt-S1d3-H4ck1nG-1s-FuN}

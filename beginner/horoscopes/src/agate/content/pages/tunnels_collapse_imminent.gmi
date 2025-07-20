@@ -1,0 +1,14 @@
+# Wasteland Network Node 21U
+
+=> gemini://[::1]/<corrupted_data_21> "Corrupted Data"
+
+Signal strength: 62%
+
+## Local Chatter
+
+* "The mutants are attacking the east gate." - Guard
+* "I'm looking for a lost robot." - Roboticist
+* "I'm selling power armor parts." - Paladin
+
+=> gemini://[::1]/<local_map_fragment_21> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_21> "Encrypted Message (Unreadable)"

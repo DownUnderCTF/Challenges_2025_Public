@@ -1,0 +1,14 @@
+# Wasteland Network Node 8H
+
+=> gemini://[::1]/<corrupted_data_8> "Corrupted Data"
+
+Signal strength: 55%
+
+## Local Chatter
+
+* "The sandstorm is picking up." - Nomad
+* "I need to repair my weapon." - Hunter
+* "I'm trading ammo for food." - Trader
+
+=> gemini://[::1]/<local_map_fragment_8> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_8> "Encrypted Message (Unreadable)"

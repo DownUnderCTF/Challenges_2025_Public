@@ -1,0 +1,20 @@
+version: '0.1'
+id: fakeobjpy
+name: fakeobj.py
+category: pwn
+description: |
+  send me your best fake snake object
+
+  Author: joseph
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - easy
+
+files:
+  - ./publish/fakeobj.py
+  - ./publish/Dockerfile
+
+flags:
+  - DUCTF{what_do_you_call_a_snake_that_bakes?_a_pie-thon!}

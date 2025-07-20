@@ -1,0 +1,21 @@
+version: "0.1"
+id: yodawg
+name: YoDawg
+category: misc
+description: |
+  We found this file on a USB drive, it seems to be some sort of gamified cyber skilled based learning system thingy?
+
+  Maybe if all of the challenges are sold we will get some answers, or maybe it is just the friends we make along the way.
+
+  Note - This may produce false positives with your virus scanner.
+
+  Author: Nosurf
+
+tags:
+  - medium
+
+files:
+  - ./publish/yo-dawg.zip
+
+flags:
+  - DUCTF{1995_to_2025}

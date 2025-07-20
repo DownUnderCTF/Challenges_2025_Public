@@ -1,0 +1,19 @@
+
+# Time's Eye
+
+A mysterious sphere that allows you to see into the past.
+
+=> times_eye.gmi
+=> ../../index.gmi
+
+> We have found it. The Eye.
+
+> It is a window into the past. A gateway to other times.
+
+> We can see the dinosaurs. The first men. The birth of civilization.
+
+> But we are not just watching. We are changing things.
+
+> And we are not the only ones. There are others. From the future.
+
+> ...a war for the past... a battle for the future...

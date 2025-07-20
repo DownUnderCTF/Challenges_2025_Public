@@ -1,0 +1,26 @@
+version: "0.1"
+id: for-golf-beginner
+name: Network Disk Forensics
+category: beginner
+description: |
+  Nobody likes having to download large disk images for CTF challenges so this time we're giving you a disk over the network!
+
+  Author: jscarsbrook
+
+hosting:
+  type: tcp
+  containerPort: 10809
+  readOnlyRootFilesystem: false
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - misc
+
+files:
+  - ./publish/go.mod
+  - ./publish/go.sum
+  - ./publish/main.go
+
+flags:
+  - DUCTF{now_you_know_how_to_use_nbd_4y742rr2}

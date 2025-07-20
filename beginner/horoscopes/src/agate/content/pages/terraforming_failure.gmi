@@ -1,0 +1,19 @@
+
+# Terraforming Failure
+
+The planet is rejecting our attempts to change it.
+
+=> terraforming_failure.gmi
+=> ../../index.gmi
+
+> The atmosphere is toxic. The water is poison.
+
+> The native life is hostile. It sees us as a virus.
+
+> We have failed. The planet has defeated us.
+
+> We are abandoning the project. Leaving this world to its fate.
+
+> But I do not think it will let us go so easily.
+
+> ...the ground is shaking...

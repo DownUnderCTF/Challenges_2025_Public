@@ -1,0 +1,19 @@
+
+# The Last Theorem
+
+A mathematical puzzle that could change the world.
+
+=> the_last_theorem.gmi
+=> ../../index.gmi
+
+> I have solved it. Fermat's Last Theorem.
+
+> But the proof is... unexpected. It is not a mathematical proof.
+
+> It is a proof of the existence of God.
+
+> And it is a proof that God is a mathematician.
+
+> But what does this mean for us? For our world?
+
+> ...a new age of faith... a new age of reason...

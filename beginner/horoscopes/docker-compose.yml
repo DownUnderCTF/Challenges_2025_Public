@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  agate:
+    restart: always
+    build: src/agate
+    ports:
+      - "1965:1965"
+    command:
+      - --content
+      - content
+      - --certs
+      - certs
+      - --addr
+      - 0.0.0.0:1965
+      - --hostname
+      - localhost
+      - --lang
+      - en-US
+  admin:
+    restart: always
+    build: src/admin/
+    ports:
+      - "30063:30063"

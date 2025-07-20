@@ -1,0 +1,17 @@
+
+# Against the Fall of Night
+
+A young man in a dying city searches for the truth about his world.
+
+=> against_the_fall_of_night.gmi
+=> ../../index.gmi
+
+> I have lived in this city my whole life. I have never known anything else.
+
+> But I have always known that there is something more. Something beyond the walls.
+
+> And I will find it. I will discover the truth.
+
+> Even if it means my death.
+
+> ...a quest for knowledge... a journey into the unknown...

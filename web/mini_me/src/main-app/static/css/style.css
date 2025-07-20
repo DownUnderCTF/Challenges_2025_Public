@@ -1,0 +1,144 @@
+body {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+#audio-warning {
+  color: #f39c12;
+  font-size: 1.6rem;
+  margin-bottom: 30px;
+  max-width: 480px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-shadow: 0 0 5px #f39c12aa;
+}
+
+#start-btn {
+  padding: 18px 50px;
+  background: #1abc9c;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(26, 188, 156, 0.7);
+  transition: background-color 0.25s ease, box-shadow 0.25s ease;
+  letter-spacing: 0.08em;
+}
+
+#start-btn:hover,
+#start-btn:focus {
+  background-color: #16a085;
+  box-shadow: 0 8px 20px rgba(22, 160, 133, 0.85);
+  outline: none;
+}
+
+#dancer,
+#dancer-img {
+  display: none;
+  position: fixed;
+  left: 50%;
+  user-select: none;
+  pointer-events: none;
+  transform: translateX(-50%);
+  z-index: 5;
+}
+
+#dancer {
+  top: 30%;
+  font-weight: 900;
+  font-size: 4rem;
+  color: #e74c3c;
+  text-shadow: 0 0 12px #e74c3cdd;
+  letter-spacing: 0.1em;
+  font-family: 'Segoe UI Black', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#dancer-img {
+  top: 70%;
+  width: 35%;
+  height: auto;
+  filter: drop-shadow(0 7px 10px rgba(0, 0, 0, 0.4));
+  border-radius: 18px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+}
+
+.login-container {
+  background: rgba(30, 30, 30, 0.85);
+  padding: 50px 60px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+  color: #ddd;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.login-container h1 {
+  font-size: 3rem;
+  margin-bottom: 35px;
+  color: #1abc9c;
+  text-shadow: 0 0 10px #1abc9caa;
+  font-family: 'Segoe UI Black', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-container input {
+  display: block;
+  width: 100%;
+  padding: 18px 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+  border: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+  background: #222;
+  color: #eee;
+  box-shadow: inset 0 2px 5px rgba(255, 255, 255, 0.07);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-container input::placeholder {
+  color: #666;
+}
+
+.login-container input:focus {
+  outline: none;
+  background-color: #1abc9c;
+  color: #0f1c1c;
+  box-shadow: 0 0 8px #1abc9c;
+}
+
+.login-container button {
+  margin-top: 30px;
+  padding: 18px 40px;
+  background: #e74c3c;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.6rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 8px 25px rgba(231, 76, 60, 0.8);
+  letter-spacing: 0.06em;
+  transition: background-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.login-container button:hover,
+.login-container button:focus {
+  background-color: #c0392b;
+  box-shadow: 0 10px 30px rgba(192, 57, 43, 0.9);
+  outline: none;
+}

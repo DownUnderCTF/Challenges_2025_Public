@@ -1,0 +1,27 @@
+
+# Zeta Grid Lockdown
+
+Signal strength nominal. Secure channel established.
+
+=> zeta_grid_lockdown.gmi
+=> ../../index.gmi
+
+> Accessing data stream... d@t@ c0rrupt3d...
+
+> Anomaly detected in Sector 7. Quarantine protocols engaged. All personnel are to report to their designated muster points.
+
+> This is not a drill. Repeat, this is not a drill.
+
+> Security breach on level 3. Automated defenses activated.
+
+> Emergency power rerouted. Life support systems critical.
+
+> Unidentified vessel approaching. Shields at maximum.
+
+> Hull breach on deck 5. Seal the area immediately.
+
+> Self-destruct sequence initiated. T-minus 10 minutes.
+
+> Evacuate. Evacuate. Evacuate.
+
+> ...signal lost...

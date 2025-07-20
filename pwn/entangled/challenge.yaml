@@ -1,0 +1,23 @@
+version: "0.1"
+id: entangled
+name: entangled
+category: pwn
+description: |
+  What will you do now that you are not so isolated?
+
+  Author: grub
+
+hosting:
+  type: {hostingType}
+  template: {hostingTemplate}
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - hard
+
+files:
+  - ./publish/entangled.tar
+
+flags:
+  - DUCTF{PWN_by_cr0ss_c0nt4m1n4t10n}

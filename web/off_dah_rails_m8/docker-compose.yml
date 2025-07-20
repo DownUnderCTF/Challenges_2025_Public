@@ -1,0 +1,11 @@
+services:
+  fat-app:
+    container_name: fat-app
+    build: src/
+    ports:
+      - "1337:1337"
+    environment:
+      - ADMIN_TOKEN=2973c412991451d5c1b9741a22444007e73c3d1412f92a654d23ffadd63ccc45
+      - FLAG=DUCTF{6f1409b9f6}
+      - DB_USER=thefatcontroller
+      - DB_PASSWORD=de13c3cc60e134ff099875230ebfb9e6480635d273a1fea9d6b31f5766b75f59

@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h2 class="mb-4">Scan History</h2>
+
+    {% if history %}
+        <div class="table-responsive">
+            <table class="table table-striped table-hover align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Domain</th>
+                        <th scope="col">Scan Type</th>
+                        <th scope="col">Result</th>
+                        <th scope="col">Timestamp</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for r in history %}
+                    <tr>
+                        <th scope="row">{{ loop.index }}</th>
+                        <td>{{ r.domain }}</td>
+                        <td>{{ r.scan_type }}</td>
+                        <td>
+                            {% if r.success %}
+                                <span class="text-success">Success</span>
+                            {% else %}
+                                <span class="text-danger">Failed</span>
+                            {% endif %}
+                        </td>
+                        <td>{{ r.timestamp.strftime('%Y-%m-%d %H:%M:%S') }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% else %}
+        <div class="alert alert-info">
+            No scans yet. Try scanning a domain to get started.
+        </div>
+    {% endif %}
+{% endblock %}

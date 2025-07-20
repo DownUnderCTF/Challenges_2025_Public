@@ -1,0 +1,19 @@
+
+# The Lion of Comarre
+
+A story of a man who searches for a mythical city.
+
+=> the_lion_of_comarre.gmi
+=> ../../index.gmi
+
+> I have searched for Comarre my whole life. It is my obsession.
+
+> They say it is a city of wonders. A city of dreams.
+
+> But they also say that it is a city of death. A city of no return.
+
+> But I am not afraid. I will find Comarre.
+
+> Or I will die trying.
+
+> ...a journey to the edge of madness...

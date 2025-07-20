@@ -1,0 +1,16 @@
+version: '0.1'
+id: survey
+name: Survey
+category: survey
+description: |
+  Please share your thoughts about the quality of DUCTF 2025!
+
+  [https://duc.tf/feedback](https://duc.tf/feedback)
+
+  Author: DUCTF
+
+tags:
+  - beginner
+
+flags:
+  - DUCTF{dear_player,_thanks_for_playing_DUCTF_2025!_sincerely,_the_DUCTF_team}

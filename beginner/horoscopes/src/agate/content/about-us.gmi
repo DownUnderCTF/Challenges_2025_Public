@@ -1,0 +1,67 @@
+# About the Wasteland Network
+
+## Our Origins
+
+When the internet began to crumble, a small group of digital preservationists had already been experimenting with alternative protocols. We saw the warning signs years before the Cascade Virus spread:
+
+1. Increasing browser complexity
+2. Security through obscurity
+3. Centralization of web resources
+4. Over-reliance on JavaScript execution
+5. The advertising-surveillance complex
+
+We built this network on the principles of digital minimalism, embracing the Gemini protocol not as a nostalgic throwback, but as the sustainable future of human information exchange.
+
+## Why Gemini Survived
+
+The Gemini protocol was designed with intentional limitations that proved to be its salvation:
+
+* No client-side scripting
+* No cookies or tracking mechanisms
+* Simple TLS security model
+* Content negotiation limited to MIME types
+* Strict separation of content and presentation
+
+When the polymorphic HTTPS exploits emerged, they targeted the complex attack surfaces of modern browsers. Our simple Gemini clients had nothing for these viruses to latch onto - no JavaScript engines to hijack, no plugin architectures to exploit.
+
+## Our Mission
+
+The Wasteland Network exists to:
+
+1. Maintain secure communication between survivor communities
+2. Preserve essential knowledge from before The Collapse
+3. Document our current reality for future generations
+4. Develop protocols for safely exploring digital ruins
+5. Rebuild a simpler, more resilient internet
+
+## Join Our Effort
+
+We need individuals with skills in:
+
+* Low-power computing
+* Radio communications
+* Data preservation
+* Security analysis
+* Community organization
+
+=> /recruitment.gmi Apply to Join a Network Team
+=> /history-archive.gmi Access Our Historical Records
+=> /index.gmi Return to Wasteland Network Home
+
+## Founding Members
+
+The original council who established the first nodes:
+
+* XXXXXX XXXXXXXXX (Former cybersecurity researcher)
+* XXXXXXX XXXXX XXXX (Communications specialist)
+* XXXXXX XXXXX (Hardware preservation expert)
+* XXXXXXXXXX XXXXXXXXXX (Digital librarian)
+* XXXXX XXXXXXXX (Network infrastructure engineer)
+
+## Security Notice
+
+Terminal ID: 8FD937E2
+Clearance: READER-STANDARD
+Access Level: PUBLIC INFORMATION ONLY
+
+To request increased permissions, locate the verification challenge embedded within this capsule network and submit your findings to any network operator, the connection port is also hidden within the capsule in a way the bots will never detect.

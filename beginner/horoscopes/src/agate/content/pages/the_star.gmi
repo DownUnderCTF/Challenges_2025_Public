@@ -1,0 +1,18 @@
+# The Star
+
+A star that appears in the sky, heralding the end of a civilization.
+
+=> the_star.gmi
+=> ../../index.gmi
+
+> We have seen it. The star.
+
+> It is beautiful. And it is terrible.
+
+> It is a sign of our doom. A harbinger of our extinction.
+
+> We are the last of our kind. The final generation.
+
+> We will watch the star burn. And then we will be gone.
+
+> ...a final, defiant song...

@@ -1,0 +1,14 @@
+# Wasteland Network Node 16P
+
+=> gemini://[::1]/<corrupted_data_16> "Corrupted Data"
+
+Signal strength: 5%
+
+## Local Chatter
+
+* "The raiders are attacking the south gate." - Guard
+* "I need to find some scrap wood." - Carpenter
+* "I'm trading junk for caps." - Scavver
+
+=> gemini://[::1]/<local_map_fragment_16> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_16> "Encrypted Message (Unreadable)"

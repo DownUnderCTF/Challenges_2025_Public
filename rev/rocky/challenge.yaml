@@ -1,0 +1,17 @@
+version: "0.1"
+id: rocky
+name: rocky
+category: rev
+description: |
+  An underdog boxer gets a once-in-a-lifetime shot at the world heavyweight title and proves his worth through sheer determination.
+
+  Author: jzt
+
+tags:
+  - easy
+
+files:
+  - ./publish/rocky
+
+flags:
+  - DUCTF{In_the_land_of_cubicles_lined_in_gray_Where_the_clock_ticks_loud_by_the_light_of_day}

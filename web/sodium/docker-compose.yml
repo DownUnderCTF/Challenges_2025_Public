@@ -1,0 +1,11 @@
+services:
+  challenge:
+    build: ./src/
+    ports:
+      - "80:80"
+    expose:
+      - "80"
+    extra_hosts:
+      - "dev.rpc-service.ductf:127.0.0.1"
+      - "dev.customer.ductf:127.0.0.1"
+      - "sodium.ductf:127.0.0.1"

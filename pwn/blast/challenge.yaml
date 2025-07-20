@@ -1,0 +1,26 @@
+version: "0.1"
+id: blast
+name: BLAST
+category: pwn
+description: |
+  BEGIN TRANSMISSION\
+  &nbsp;&nbsp; I HEARD ALL THE BEST MATRIX LIBRARIES WERE WRITTEN IN FORTRAN SO I TRIED MY\
+  &nbsp;&nbsp; HAND AT IMPLEMENTING MY OWN. FOR SOME REASON IT KEEPS CRASHING THOUGH?\
+  END TRANSMISSION
+
+  Author: wednesday
+
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - easy
+
+files:
+  - ./publish/publish.tar.gz
+
+flags:
+  - DUCTF{0n3_ind3x3d_languag3s_ar3_b3tt3r_than_z3r0_ind3x3d_come_fite_me}

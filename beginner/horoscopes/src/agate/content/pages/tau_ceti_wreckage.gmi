@@ -1,0 +1,19 @@
+
+# Tau Ceti Wreckage
+
+Debris field. The remains of a great battle.
+
+=> tau_ceti_wreckage.gmi
+=> ../../index.gmi
+
+> We have found the remnants of a fleet. Imperial and... something else.
+
+> The ships are torn to pieces. The destruction is absolute.
+
+> There are no survivors. Only the dead.
+
+> We have recovered a log buoy. The last message of the Imperial commander.
+
+> It speaks of a new enemy. A foe of unimaginable power.
+
+> ...a final, desperate plea... "Ave Imperator, morituri te salutant"...

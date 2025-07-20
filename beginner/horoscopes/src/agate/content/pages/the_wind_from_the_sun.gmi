@@ -1,0 +1,19 @@
+
+# The Wind from the Sun
+
+Stories of the early days of space travel.
+
+=> the_wind_from_the_sun.gmi
+=> ../../index.gmi
+
+> We were pioneers. We were explorers.
+
+> We were the first to see the Earth from space. The first to walk on the Moon.
+
+> We were heroes. We were legends.
+
+> But we were also human. And we made mistakes.
+
+> And now, we are paying the price.
+
+> ...a story of triumph and tragedy...

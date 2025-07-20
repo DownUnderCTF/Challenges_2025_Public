@@ -1,0 +1,19 @@
+
+# Pi Mensae Exoplanet
+
+Earth-like world. Possible signs of intelligent life.
+
+=> pi_mensae_exoplanet.gmi
+=> ../../index.gmi
+
+> We have found it. A new home for humanity.
+
+> The planet is a paradise. Lush forests, clear oceans, breathable air.
+
+> There are ruins. Ancient cities of a forgotten civilization.
+
+> What happened to them? Where did they go?
+
+> We are not alone here. There is something in the ruins.
+
+> ...a single word, written in the dust... "Silence"...

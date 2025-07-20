@@ -1,0 +1,14 @@
+# Wasteland Network Node 12L
+
+=> gemini://[::1]/<corrupted_data_12> "Corrupted Data"
+
+Signal strength: 23%
+
+## Local Chatter
+
+* "The raiders are demanding tribute." - Elder
+* "I need to find a power core." - Scribe
+* "I'm trading books for water." - Librarian
+
+=> gemini://[::1]/<local_map_fragment_12> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_12> "Encrypted Message (Unreadable)"

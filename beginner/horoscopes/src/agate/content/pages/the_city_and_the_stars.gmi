@@ -1,0 +1,19 @@
+
+# The City and the Stars
+
+A city that has forgotten its past, and a star that remembers.
+
+=> the_city_and_the_stars.gmi
+=> ../../index.gmi
+
+> We have lived in the city for a billion years. We have forgotten the stars.
+
+> But the stars have not forgotten us.
+
+> They have been waiting for us. To return to them.
+
+> We are not the only ones. There are other cities. Other stars.
+
+> The universe is a vast and wonderful place. And we are a part of it.
+
+> ...a journey of a thousand light-years... a new beginning...

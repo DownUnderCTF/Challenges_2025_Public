@@ -1,0 +1,6 @@
+services:
+  fishywebsite:
+    container_name: fishywebsite
+    ports:
+    - "80:8000"
+    build: src/phishing

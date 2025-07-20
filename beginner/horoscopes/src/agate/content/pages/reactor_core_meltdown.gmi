@@ -1,0 +1,14 @@
+# Wasteland Network Node 19S
+
+=> gemini://[::1]/<corrupted_data_19> "Corrupted Data"
+
+Signal strength: 81%
+
+## Local Chatter
+
+* "The water is glowing." - Settler
+* "I'm looking for a lost child." - Parent
+* "I'm selling rad-away." - Doctor
+
+=> gemini://[::1]/<local_map_fragment_19> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_19> "Encrypted Message (Unreadable)"

@@ -1,0 +1,14 @@
+# Wasteland Network Node 14N
+
+=> gemini://[::1]/<corrupted_data_14> "Corrupted Data"
+
+Signal strength: 12%
+
+## Local Chatter
+
+* "The ghouls are swarming the old church." - Preacher
+* "I need to find some fusion cells." - Knight
+* "I'm trading armor for chems." - Armorer
+
+=> gemini://[::1]/<local_map_fragment_14> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_14> "Encrypted Message (Unreadable)"

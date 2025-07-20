@@ -1,0 +1,19 @@
+version: "0.1"
+id: legendary
+name: legendary
+category: web
+description: |
+  Show that you are legendary!
+
+  Author: hashkitten
+connection_info: http://${host}:${port}
+tags:
+  - hard
+files:
+  - ./publish/src-legendary.tar.gz
+flags:
+  - DUCTF{o.o_what_a_great_bit_of_ngineering}
+hosting:
+  type: tcp
+  containerPort: 80
+  readOnlyRootFilesystem: false

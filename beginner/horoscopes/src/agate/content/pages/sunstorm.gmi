@@ -1,0 +1,19 @@
+
+# Sunstorm
+
+A massive solar flare threatens to destroy the Earth.
+
+=> sunstorm.gmi
+=> ../../index.gmi
+
+> We have one last hope. A shield to protect the Earth.
+
+> But it is not enough. The sunstorm is too powerful.
+
+> We are doomed. All of us.
+
+> But we will not die in fear. We will die in defiance.
+
+> We will face the sunstorm with courage and with hope.
+
+> ...a final, desperate prayer...

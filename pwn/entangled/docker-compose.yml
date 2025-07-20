@@ -1,0 +1,7 @@
+services:
+  entangled:
+    container_name: entangled
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

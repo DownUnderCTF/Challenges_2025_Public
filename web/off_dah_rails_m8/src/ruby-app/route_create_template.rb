@@ -1,0 +1,1 @@
+route 'post "/", to: "main#lol_what_could_go_wrong"'

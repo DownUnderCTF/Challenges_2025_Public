@@ -1,0 +1,9 @@
+
+services:
+  hacker-db: 
+    image: mariadb:10.11.11
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: hackerpassword
+    ports:
+      - 3306:3306

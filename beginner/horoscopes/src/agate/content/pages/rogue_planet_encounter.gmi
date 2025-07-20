@@ -1,0 +1,19 @@
+
+# Rogue Planet Encounter
+
+A world without a star. A wanderer in the darkness.
+
+=> rogue_planet_encounter.gmi
+=> ../../index.gmi
+
+> The planet is a ball of ice and rock. A frozen wasteland.
+
+> But it is not dead. There is something moving beneath the surface.
+
+> It is a creature of immense size. A leviathan of the void.
+
+> It is the planet itself. A living world.
+
+> And it is aware of us. It is... curious.
+
+> ...a low, rumbling sound... a psychic greeting...

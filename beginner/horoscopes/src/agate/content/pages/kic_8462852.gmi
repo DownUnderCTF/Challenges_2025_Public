@@ -1,0 +1,19 @@
+
+# KIC 8462852
+
+The most mysterious star in the galaxy.
+
+=> kic_8462852.gmi
+=> ../../index.gmi
+
+> The light from the star is... irregular. It is dimming and brightening in a way that we have never seen before.
+
+> It is not a natural phenomenon. Something is blocking the light.
+
+> Something... large. An artificial structure.
+
+> A Dyson swarm? A Matrioshka brain? Something else entirely?
+
+> We are detecting a signal. A single, repeating pulse.
+
+> ...a heartbeat... a countdown... a warning...

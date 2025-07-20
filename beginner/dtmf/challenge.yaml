@@ -1,0 +1,21 @@
+version: "0.1"
+id: dtmf
+name: Down To Modulate Frequencies!
+category: beginner
+description: |
+  One of the scavengers found an abandonded station still transmitting. Its been so long, no one 
+  remembers how to decode this old tech, can you figure out what was being transmitted?
+
+  Decode the alphanumeric message and wrap it in `DUCTF{}`.
+
+  Author: pix
+
+tags:
+  - misc
+
+files:
+  - ./publish/dtmf.txt
+
+flags:
+  - {type: "static", content: "DUCTF{onlyninetieskidswillrememberthis}", data: "case_insensitive"}
+  - {type: "static", content: "onlyninetieskidswillrememberthis", data: "case_insensitive"}

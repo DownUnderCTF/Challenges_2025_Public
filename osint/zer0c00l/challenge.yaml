@@ -1,0 +1,21 @@
+version: "0.1"
+id: zer0c00l
+name: Zer0C00l
+category: osint
+description: |
+  We've been able to pull some audio from a tape backup, only problem is it's from 1995!! We know it's a Sydney number and there must be a modem at the other end...who are they calling?
+
+  Wrap the answer within `DUCTF{...}` (case insensitive)
+
+  Author: Nosurf
+
+tags:
+  - medium
+
+files:
+  - ./publish/zer0c00l.mp3
+
+flags:
+  - {type: "static", content: "DUCTF{hotline}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{hotlinebbs}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{hotline_bbs}", data: "case_insensitive"}

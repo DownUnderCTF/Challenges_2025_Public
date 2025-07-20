@@ -1,0 +1,24 @@
+version: "0.1"
+id: request-handling
+name: Request Handling
+category: web
+description: |
+  They patched Handlebars SSTI, there's nothing to worry about.
+
+  Author: ssparrow
+
+hosting:
+  type: kube
+  mode: isolated
+  containerPort: 8000
+
+connection_info: ${url}
+
+tags:
+  - medium
+
+files:
+  - ./publish/Dockerfile
+
+flags:
+  - DUCTF{35116296c07966e5f645dac55a0fe81c}

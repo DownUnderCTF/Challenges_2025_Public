@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h2>Check your enrollment</h2>
+    <form method="POST" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="url" placeholder="https://example.com" class="form-control" required>
+            <button class="btn btn-primary" type="submit">Scan</button>
+        </div>
+    </form>
+    <div class="alert alert-info">
+        Not enrolled? We can grab all the necessary info from your company's website and pre-fill the sign up form! Awesome? We know.
+    </div>
+    {% if result %}
+        <div class="alert alert-info">
+            <strong>{{ domain }}</strong> → {{ result }}
+        </div>
+    {% endif %}
+
+    {% if history %}
+        <div class="scan-history">
+            <h4>Your Scan History</h4>
+            <ul class="list-group">
+                {% for scan in history %}
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span><strong>{{ scan.domain }}</strong></span>
+                        <small>{{ scan.timestamp }}</small>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+{% endblock %}

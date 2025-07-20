@@ -1,0 +1,28 @@
+version: "0.1"
+id: rolling-around
+name: Rolling Around
+category: pwn
+description: |
+  I've decided that we really need to extend extended BPF further, so I've added a new instruction! Have fun ROL'ing to your hearts content.
+
+  Note - the commit the kernel is based off of is: `f66bc387efbee59978e076ce9bf123ac353b389c`
+
+  Author: ItsIronicIInsist
+
+hosting:
+  type: kube
+  template: { hostingTemplate }
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - hard
+
+files:
+  - ./publish/bzImage
+  - ./publish/initramfs.cpio.gz
+  - ./publish/kernel.patch
+  - ./publish/run.sh
+
+flags:
+  - DUCTF{got_places_to_go_gotta_follow_my_rainbow}

@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  mini_me:
+    container_name: mini_me
+    build: src/
+    ports:
+      - "1337:1337"

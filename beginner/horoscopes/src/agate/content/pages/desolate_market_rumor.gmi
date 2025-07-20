@@ -1,0 +1,14 @@
+# Wasteland Network Node 5E
+
+=> gemini://[::1]/<corrupted_data_5> "Corrupted Data"
+
+Signal strength: 15%
+
+## Local Chatter
+
+* "The ghouls are restless tonight." - Settler
+* "I need to find some scrap metal." - Mechanic
+* "The crops are failing." - Farmer
+
+=> gemini://[::1]/<local_map_fragment_5> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_5> "Encrypted Message (Unreadable)"

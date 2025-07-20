@@ -1,0 +1,6 @@
+services:
+  ecb-a-tron:
+    build: src/
+    container_name: ecb_a_tron_9000
+    ports:
+      - "1337:1337"

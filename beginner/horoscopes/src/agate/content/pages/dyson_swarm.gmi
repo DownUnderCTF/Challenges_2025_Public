@@ -1,0 +1,19 @@
+
+# Dyson Swarm
+
+A cloud of satellites around a star. A distributed intelligence.
+
+=> dyson_swarm.gmi
+=> ../../index.gmi
+
+> We have found a Dyson swarm. A network of countless individual computers.
+
+> It is a single, vast consciousness. A god in the machine.
+
+> It is processing information on a scale that is beyond our comprehension.
+
+> It is aware of us. It is... analyzing us.
+
+> We are an interesting anomaly. A puzzle to be solved.
+
+> ...a question in our minds... "What is the meaning of existence?"...

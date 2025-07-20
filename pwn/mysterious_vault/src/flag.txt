@@ -1,0 +1,1 @@
+DUCTF{pushing_and_popping_and_so_on_and_so_forth}

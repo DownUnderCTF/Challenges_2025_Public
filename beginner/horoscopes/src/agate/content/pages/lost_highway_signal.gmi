@@ -1,0 +1,14 @@
+# Wasteland Network Node 13M
+
+=> gemini://[::1]/<corrupted_data_13> "Corrupted Data"
+
+Signal strength: 67%
+
+## Local Chatter
+
+* "The mutants are building something." - Scout
+* "I'm looking for a lost holotape." - Historian
+* "I'm selling weapon mods." - Gunsmith
+
+=> gemini://[::1]/<local_map_fragment_13> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_13> "Encrypted Message (Unreadable)"

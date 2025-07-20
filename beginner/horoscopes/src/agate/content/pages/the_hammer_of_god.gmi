@@ -1,0 +1,19 @@
+
+# The Hammer of God
+
+An asteroid is on a collision course with Earth.
+
+=> the_hammer_of_god.gmi
+=> ../../index.gmi
+
+> We have one chance to save ourselves. One desperate plan.
+
+> We will send a ship to the asteroid. To deflect it.
+
+> It is a suicide mission. But we have no other choice.
+
+> We are the last hope of humanity.
+
+> And we will not fail.
+
+> ...a race against time... a final, desperate gamble...

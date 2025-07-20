@@ -1,0 +1,5 @@
+services:
+  certvalidated:
+    build: src/
+    ports:
+      - 1337:1337

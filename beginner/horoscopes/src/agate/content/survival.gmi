@@ -1,0 +1,58 @@
+# Survival Basics: First Steps in the New World
+
+The digital collapse mirrored the physical one. Both require new skills to navigate.
+
+## Rule #1: Trust Your Gemini Browser
+
+The Gemini protocol saved those of us who adopted it early. When the HTTPS viruses spread through the complex vulnerabilities in traditional browsers, our simple text-based systems remained immune. Remember:
+
+* No scripts means no attack surface
+* No cookies means no tracking
+* No embedded content means no silent exploits
+
+If you're reading this, you've already taken the most important step - abandoning the infected browsers and embracing Gemini.
+
+## Physical Survival Essentials
+
+1. Water purification methods (distillation preferred)
+2. Shelf-stable nutrient sources
+3. EMP-hardened communication devices
+4. Local maps (digital systems still unreliable)
+5. Community connection points
+
+
+[XXXXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX]
+[XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYXXX]
+[XXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX]
+[XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX]
+[XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYXXXXXXXXXXXXXXXXXXX]
+[XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX]
+
+## Digital Survival Essentials
+
+1. Offline Gemini client
+2. Manual certificate verification procedures
+3. Dumb-terminal hardware (pre-2125 if possible)
+4. Knowledge of text-only information formats
+5. Regular connection rotation patterns
+6. Verify all connections and new uploads with trusted sources
+
+## Remember The Pattern
+
+When contacting unknown capsules, always use the verification pattern:
+
+```
+Request -> Wait -> Limited Share -> Wait -> Verify -> Full Connect
+```
+
+Breaking this pattern gets people compromised. The bots are learning to mimic human typing patterns, but they cannot follow the irregular timing requirements of our protocol.
+
+=> /tech-salvage.gmi Learn about safe technology salvaging
+=> /survival-adv.gmi Advanced survival techniques
+=> /index.gmi Return to Wasteland Network Home
+
+## Daily Code Phrase
+
+Today's authentication phrase: "Moonlight reflects twice on still water"
+
+Response: "But+ripples+show=truth%in motion"

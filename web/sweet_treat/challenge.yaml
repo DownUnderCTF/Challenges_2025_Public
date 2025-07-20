@@ -1,0 +1,25 @@
+version: "0.1"
+id: sweet-treat
+name: Sweet Treat
+category: web
+description: |
+  Hope you have a sweet tooth.
+
+  Author: sidd.sh
+
+hosting:
+  type: kube
+  mode: isolated
+  containerPort: 8080
+  readOnlyRootFilesystem: false
+
+connection_info: ${url}
+
+tags:
+  - medium
+
+files:
+  - ./publish/src.zip
+
+flags:
+  - DUCTF{1_th0ught_y0u_c0uldnt_st34l_th3m}

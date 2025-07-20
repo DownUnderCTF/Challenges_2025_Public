@@ -1,0 +1,12 @@
+[package]
+name = "solv"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+indicatif = "0.17.11"
+rand = "0.9.0"
+rayon = "1.10.0"
+rug = "1.27.0"
+ethnum = "1"
+hashbrown = "0.15.2"

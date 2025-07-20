@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>We love ZIPS</title>
+  </head>
+
+  <body>
+    Give us a ZIP and we will unzip it
+
+    <form method="POST" action="/unzip" enctype="multipart/form-data">
+      <input type="file" name="zipfile">
+
+      <input type="submit">
+    </form>
+
+    <br><br>
+
+    You can also give us 7z
+
+    <form method="POST" action="/un7z" enctype="multipart/form-data">
+      <input type="file" name="zipfile">
+
+      <input type="submit">
+    </form>
+  </body>
+</html>

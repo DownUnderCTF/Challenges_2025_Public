@@ -1,0 +1,25 @@
+version: "0.1"
+id: sodium
+name: sodium
+category: web
+description: |
+  This one might require a pinch of patience.
+
+  Author: sidd.sh
+
+hosting:
+  mode: isolated
+  type: tcp
+  readOnlyRootFilesystem: false
+  containerPort: 80
+
+connection_info: ${url}
+
+tags:
+  - hard
+
+files:
+  - ./publish/src.zip
+
+flags:
+  - DUCTF{th3y_s33_m3_smuggl1ng_4nd_ch41n1ng}

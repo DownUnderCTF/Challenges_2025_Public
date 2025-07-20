@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  "for-golf-hard":
+    container_name: for-golf-hard
+    build: src/
+    ports:
+      - 10809:10809

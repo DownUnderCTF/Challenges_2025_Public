@@ -1,0 +1,14 @@
+# Wasteland Network Node 20T
+
+=> gemini://[::1]/<corrupted_data_20> "Corrupted Data"
+
+Signal strength: 28%
+
+## Local Chatter
+
+* "The raiders are building a new camp." - Scout
+* "I need to find some leather." - Tailor
+* "I'm trading chems for ammo." - Dealer
+
+=> gemini://[::1]/<local_map_fragment_20> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_20> "Encrypted Message (Unreadable)"

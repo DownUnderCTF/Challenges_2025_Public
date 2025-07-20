@@ -1,0 +1,19 @@
+
+# The City of the Sun
+
+A story of a man who finds a lost city in the desert.
+
+=> the_city_of_the_sun.gmi
+=> ../../index.gmi
+
+> I have found it. The City of the Sun.
+
+> It is a city of gold and jewels. A city of wonders.
+
+> But it is also a city of ghosts. A city of the dead.
+
+> The people of the city are long gone. But their spirits remain.
+
+> And they are not happy to have a visitor.
+
+> ...a city of secrets... a city of lies...

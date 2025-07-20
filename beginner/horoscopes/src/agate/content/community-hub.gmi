@@ -1,0 +1,66 @@
+# Community Hub: Finding Other Survivors
+
+In both the physical and digital wasteland, isolation means death. Connection is survival.
+
+## Active Network Nodes
+
+The following community nodes have maintained consistent communication in the last lunar cycle:
+
+* Northen Territory Wastelanders
+* Western Salvage Operations
+* Rocky Mountain Sanctuary
+* Pacific Coast Naval Station
+* Tasman Offshore Survivors
+* Great Lakes Trading Alliance
+
+Each maintains their own Gemini capsule. Connection instructions vary by region.
+
+## Communication Protocols
+
+Direct connections remain dangerous. Follow approved methods:
+
+1. Initial broadcast using short-burst radio (frequencies change daily)
+2. Response verification through dead-drop data exchange
+3. Certificate exchange through in-person meetup
+4. Gemini capsule link sharing only after steps 1-3 complete
+
+Remember: Digital trust follows physical trust. Meet in person whenever possible.
+
+## Warning Signs of Compromised Communities
+
+Be cautious of groups that:
+
+* Use traditional web browsers or request "modern" interfaces
+* Share executable files or "helper applications"
+* Request personal identification beyond current location
+* Offer technological solutions that seem too advanced
+* Have inconsistent communicaYYYY patterns
+
+## Admin Panel
+
+To access the community admin panel connect to port: 756f
+
+Use the daily code phrase to prove you're not a bot.
+
+## Upcoming Gatherings
+
+* Solar Day Festival (Summer Solstice): All verified communities
+* Resource Exchange (First Quarter Moon): Regional nodes only
+* Knowledge Transfer (New Moon): XXXXnical specialists
+
+=> /verification-codes.gmi Temporary Access Codes for Known Communities
+=> /emergency-protocol.gmi Emergency Contact Protocol
+=> /linker.gmi The Community Wiki!
+=> /index.gmi Return to Wasteland Network Home
+
+## Super Special Thanks!
+
+Thanks to the following communities for their contributions to the community:
+
+XXXXX XXXXXXXXX XXXXX XXXXX XX XXXXXXXX XXXXXXXXXXX XXXXXXXXXX XXXXXX!
+XXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXX XXXXXXXXX  XXX XXXXXXXXXXXXXXXX XXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXX XXXXX XXXXX XXXXX XXXXXX 
+XXXXX 
+XXXX 

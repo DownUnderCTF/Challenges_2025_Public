@@ -1,0 +1,19 @@
+
+# Rho Puppis Cluster
+
+Open star cluster. A thousand points of light.
+
+=> rho_puppis_cluster.gmi
+=> ../../index.gmi
+
+> The star density is incredible. It is a city of suns.
+
+> We are detecting multiple warp signatures. The cluster is a major thoroughfare.
+
+> There are ships of all kinds here. Traders, pirates, pilgrims.
+
+> It is a crossroads of the galaxy. A place of infinite possibility.
+
+> We have received a distress call. A ship is under attack.
+
+> ...the roar of battle...

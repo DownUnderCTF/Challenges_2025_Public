@@ -1,0 +1,51 @@
+# Tech Salvaging: Safe Computing After the Fall
+
+Every piece of old-world tech is both opportunity and threat. Learn to tell the difference.
+
+## The Great HTTPS Corruption
+
+The convenience of the old web was its downfall. As browsers became more complex, supporting video, scripts, and countless extensions, they created perfect breeding grounds for the polymorphic code parasites that eventually became the Cascade Virus.
+
+By the time anyone recognized the pattern, millions of devices were already compromised. The HTTPS infrastructure - once our guardian - became the perfect delivery system for the virus.
+
+Only the simplest protocols survived. Gemini, with its intentional limitations, proved to be our digital cockroach - tough enough to survive the apocalypse.
+
+## Safe Salvage Guidelines
+
+### Hardware Assessment
+
+* Pre-2125 net-shims with removable batteries preferred
+* Avoid all devices with "smart" or "connected" features
+* Look for hardware kill switches for wireless components
+* Prefer monochrome displays (lower power requirements)
+* Check for physical tampering before powering on
+
+### Software Decontamination
+
+* Wipe ALL storage before first use
+* Install offline Gemini client from trusted capsule
+* Never restore from old-world backups
+* Avoid all executable code from unknown sources
+* Keep systems air-gapped when possible
+
+## Dangerous Signs
+
+If your salvaged device shows any of these behaviors, disconnect power IMMEDIATELY:
+
+* Unexpected network activity indicators
+* Fans running at high speed without apparent cause
+* Screen artifacts resembling QR codes or barcodes
+* Audio output without user prompting
+* Unusually warm components during simple tasks
+
+=> /hardware-guide.gmi Detailed Hardware Decontamination Guide
+=> /safe-zones.gmi Map of Technology Safe Zones
+=> /index.gmi Return to Wasteland Network Home
+
+## Hidden Access and Connection Verification
+
+The Council has approved your progress to this point. For verification access to restricted guides, locate the flag hidden in plain sight.
+
+Look carefully at what sits between the rise and fall, visible only through the simplest lens.
+
+Remember: Knowledge shared is strength multiplied.

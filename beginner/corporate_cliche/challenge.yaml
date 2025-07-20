@@ -1,0 +1,26 @@
+version: "0.1"
+id: corporate-cliche
+name: corporate-cliche
+category: beginner
+description: |
+  It's time to really **push the envelope** and go **above and beyond**! 
+  We've got a new challenge for you.
+  Can you find a way to get into our email server?
+
+  Author: Blue Alder
+
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - pwn
+
+files:
+  - ./publish/email_server
+  - ./publish/email_server.c
+
+flags:
+  - DUCTF{wow_you_really_boiled_the_ocean_the_shareholders_thankyou}

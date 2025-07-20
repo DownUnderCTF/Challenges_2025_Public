@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  "yet-another-login":
+    container_name: yet-another-login
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

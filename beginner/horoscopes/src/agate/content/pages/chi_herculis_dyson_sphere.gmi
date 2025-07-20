@@ -1,0 +1,19 @@
+
+# Chi Herculis Dyson Sphere
+
+A star encased in a shell. A monument to a forgotten god.
+
+=> chi_herculis_dyson_sphere.gmi
+=> ../../index.gmi
+
+> The scale is... unimaginable. A civilization that could build this would be as gods.
+
+> The sphere is dead. Silent. A tomb for a dead god.
+
+> We have found a way inside. A single, small opening.
+
+> The interior is a vast, empty space. A cathedral of darkness.
+
+> There is something on the central star. A single, lone figure.
+
+> ...it is waiting for us...

@@ -1,0 +1,19 @@
+
+# Von Neumann Probe
+
+A self-replicating probe. A mechanical virus.
+
+=> von_neumann_probe.gmi
+=> ../../index.gmi
+
+> We have encountered a Von Neumann probe. A relic of a long-dead civilization.
+
+> It is still following its original programming. To explore and replicate.
+
+> It is a cancer in the stars. A plague of metal and wire.
+
+> It has detected us. It sees us as raw materials.
+
+> We must destroy it. Before it consumes us all.
+
+> ...a swarm of smaller probes... a metallic tide...

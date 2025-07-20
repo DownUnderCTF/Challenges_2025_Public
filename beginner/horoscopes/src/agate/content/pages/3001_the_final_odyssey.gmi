@@ -1,0 +1,19 @@
+
+# 3001: The Final Odyssey
+
+The end of the journey.
+
+=> 3001_the_final_odyssey.gmi
+=> ../../index.gmi
+
+> The monolith is a weapon. And it is aimed at us.
+
+> It is a test. A final exam.
+
+> If we fail, we will be destroyed.
+
+> But we will not fail. We are humanity.
+
+> And we will not go quietly into the night.
+
+> ...a final, desperate battle...

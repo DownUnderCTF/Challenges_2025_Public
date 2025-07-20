@@ -1,0 +1,14 @@
+version: "0.1"
+id: discord
+name: discord
+category: beginner
+description: |
+  There's a flag hiding in our DUCTF Discord server! Browse some channels on the left and see if you can find it.
+
+  Author: a_metre
+
+tags:
+  - misc
+
+flags:
+  - DUCTF{E-d0g_th4nks_th3_sp0ns0rs_4_th3ir_supp0rt!}

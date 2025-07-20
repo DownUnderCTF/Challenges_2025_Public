@@ -1,0 +1,19 @@
+
+# Beta Test Failure
+
+Experiment unstable. Containment breach imminent.
+
+=> beta_test_failure.gmi
+=> ../../index.gmi
+
+> The subject has escaped. Repeat, the subject has escaped.
+
+> It is stronger than we anticipated. More... intelligent.
+
+> All attempts to neutralize have failed. We are taking heavy casualties.
+
+> It is adapting. Evolving.
+
+> God help us all.
+
+> ...screams...

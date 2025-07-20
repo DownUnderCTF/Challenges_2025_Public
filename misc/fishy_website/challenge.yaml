@@ -1,0 +1,23 @@
+version: "0.1"
+id: fishy-website
+name: Fishy Website
+category: misc
+description: |
+  Found this fishy website URL on my e-mail and it started to do some crazy stuff on my computer. I have captured some network traffic that may help you find out what is happening on my computer. Thanks a lot for the help!
+
+  Author: k3ng
+
+hosting:
+  type: http
+  containerPort: 8000
+
+connection_info: ${url}
+
+tags:
+  - medium
+
+files:
+  - ./publish/capture.pcapng
+
+flags:
+  - DUCTF{1_gu355_y0u_c4n_d3cRyPT_TLS_tr4ff1c}

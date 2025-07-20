@@ -1,0 +1,14 @@
+# Wasteland Network Node 7G
+
+=> gemini://[::1]/<corrupted_data_7> "Corrupted Data"
+
+Signal strength: 2%
+
+## Local Chatter
+
+* "The power is out again." - Resident
+* "I saw a strange light in the sky." - Observer
+* "I'm looking for a lost locket." - Child
+
+=> gemini://[::1]/<local_map_fragment_7> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_7> "Encrypted Message (Unreadable)"

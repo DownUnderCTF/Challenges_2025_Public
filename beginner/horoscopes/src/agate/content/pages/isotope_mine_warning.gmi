@@ -1,0 +1,14 @@
+# Wasteland Network Node 10J
+
+=> gemini://[::1]/<corrupted_data_10> "Corrupted Data"
+
+Signal strength: 88%
+
+## Local Chatter
+
+* "The ghouls are attacking the west gate." - Guard
+* "I need to find some medicine." - Healer
+* "I'm trading chems for caps." - Dealer
+
+=> gemini://[::1]/<local_map_fragment_10> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_10> "Encrypted Message (Unreadable)"

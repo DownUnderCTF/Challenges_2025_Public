@@ -1,0 +1,22 @@
+services:
+  webapp:
+    build: ./src
+    ports:
+      - 1337:1337
+    environment:
+      INTERNAL_XSS_BOT_URL: "http://xssbot"
+      # INTERNAL_XSS_BOT_URL: "http://127.0.0.1:8000"
+
+      # BOT_TOKEN: 7280be09bc33b212eee18ee7e2ad2087366358fe5ee1fb064b058baacbeea992
+      BOT_TOKEN: 7280be09bc33b212eee18ee7e2ad2087366358fe5ee1fb064b058baacbeea992
+
+      # BOT_VISIT_URL: http://webapp:1337/
+      BOT_VISIT_URL: http://webapp:1337/
+
+  xssbot:
+    image: ghcr.io/downunderctf/docker-vendor/xssbot:chrome
+    privileged: true
+    environment:
+      - OUTBOUND_AUTH_METHOD=http-get
+      - OUTBOUND_AUTH_HTTP_GET_URL=http://webapp:1337/bot-login?token=7280be09bc33b212eee18ee7e2ad2087366358fe5ee1fb064b058baacbeea992
+      - NODE_ENVIRONMENT=development

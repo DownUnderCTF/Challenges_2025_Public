@@ -1,0 +1,19 @@
+
+# Omega Centauri Cluster
+
+A globular cluster. A million stars bound by gravity.
+
+=> omega_centauri_cluster.gmi
+=> ../../index.gmi
+
+> The cluster is ancient. Older than the galaxy itself.
+
+> It is a relic of a bygone era. A ghost of a forgotten time.
+
+> There is a sense of... peace here. A tranquility that is unsettling.
+
+> It is the peace of the grave. The silence of the void.
+
+> We are not welcome here. We are intruders in a sacred place.
+
+> ...a feeling of being watched...

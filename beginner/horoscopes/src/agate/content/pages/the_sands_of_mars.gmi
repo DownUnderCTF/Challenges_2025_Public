@@ -1,0 +1,17 @@
+
+# The Sands of Mars
+
+A story of a man who tries to make Mars his home.
+
+=> the_sands_of_mars.gmi
+=> ../../index.gmi
+
+> I have come to Mars to die. To be buried in the red sand.
+
+> But Mars has other plans for me. It is a world of surprises.
+
+> It is a world of beauty and terror. A world of life and death.
+
+> And it is a world that is worth fighting for.
+
+> ...a new reason to live... a new hope for the future...

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://pkfm2cps6e8x"
+path="res://.godot/imported/estragon.dialogue-6c116191f83e1cbd6ba75b492176634e.tres"
+
+[deps]
+
+source_file="res://dialgoue/estragon.dialogue"
+dest_files=["res://.godot/imported/estragon.dialogue-6c116191f83e1cbd6ba75b492176634e.tres"]
+
+[params]
+
+defaults=true

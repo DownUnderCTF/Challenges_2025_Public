@@ -1,0 +1,8 @@
+services:
+  gomail:
+    container_name: gomail
+    build: src/
+    ports:
+      - 1337:1337
+    environment:
+      - FLAG=DUCTF{g0v3rFloW_2_mY_eM41L5!}

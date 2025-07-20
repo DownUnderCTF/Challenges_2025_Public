@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h2 class="mb-4">Scan History</h2>
+
+    {% if result %}
+        <div class="table-responsive">
+            <table class="table table-striped table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <!-- Fix width if you can be arsed -->
+                        <th scope="col">Host</th>
+                        <th scope="col">Scan Type</th>
+                        <th scope="col">Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if scan %}
+                    <tr>
+                        <td>{{ scan.host }}</td>
+                        <td>{{ scan.scan_type }}</td>
+                        <td>
+                            {% if scan.success %}
+                                <span class="text-success">Success</span>
+                            {% else %}
+                                <span class="text-danger">Failed</span>
+                            {% endif %}
+                        </td>
+                        <td>{{ result }}</td>
+                    </tr>
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+    {% else %}
+        <div class="alert alert-info">
+            No scans yet. Try scanning a domain to get started.
+        </div>
+    {% endif %}
+{% endblock %}

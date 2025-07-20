@@ -1,0 +1,14 @@
+# Wasteland Network Node 3C
+
+=> gemini://[::1]/<corrupted_data_3> "Corrupted Data"
+
+Signal strength: 8%
+
+## Local Chatter
+
+* "The mutants are getting bolder." - Guard
+* "I found a pre-war comic book." - Collector
+* "The generator is failing." - Engineer
+
+=> gemini://[::1]/<local_map_fragment_3> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_3> "Encrypted Message (Unreadable)"

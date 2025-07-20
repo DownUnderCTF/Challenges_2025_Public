@@ -1,0 +1,18 @@
+version: '0.1'
+id: sh-rsa
+name: SH-RSA
+category: crypto
+description: |
+  You should only need a short amount of time to break this short hash RSA signature scheme!
+
+  Author: joseph
+connection_info: nc ${host} ${port}
+
+tags:
+  - hard
+
+files:
+  - ./publish/sh-rsa.py
+
+flags:
+  - DUCTF{how_did_you_break_64_bits_in_46_seconds!?}

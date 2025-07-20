@@ -1,0 +1,19 @@
+
+# Sigma Draconis Signal
+
+A mysterious signal from a nearby star.
+
+=> sigma_draconis_signal.gmi
+=> ../../index.gmi
+
+> The signal is not random. It is a complex mathematical language.
+
+> We have deciphered a portion of it. It is a warning.
+
+> They are telling us to stay away. That this system is... cursed.
+
+> They speak of a great evil. A darkness that consumes all.
+
+> The signal is getting stronger. They are shouting at us now.
+
+> ...a single, terrifying image... a skull with a serpent crawling through it...

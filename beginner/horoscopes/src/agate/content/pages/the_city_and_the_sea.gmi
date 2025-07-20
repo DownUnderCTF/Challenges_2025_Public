@@ -1,0 +1,19 @@
+
+# The City and the Sea
+
+A city that is sinking into the sea.
+
+=> the_city_and_the_sea.gmi
+=> ../../index.gmi
+
+> We are the last generation. The last to see the sun.
+
+> The sea is rising. The city is drowning.
+
+> We have nowhere to go. Nowhere to run.
+
+> But we will not despair. We will not give up.
+
+> We will sing our songs. We will tell our stories.
+
+> ...a final, defiant chorus...

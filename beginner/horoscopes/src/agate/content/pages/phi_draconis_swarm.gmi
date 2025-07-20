@@ -1,0 +1,19 @@
+
+# Phi Draconis Swarm
+
+Bio-mechanical locusts. They consume everything.
+
+=> phi_draconis_swarm.gmi
+=> ../../index.gmi
+
+> They are a plague upon the stars. A testament to the folly of the machine.
+
+> They are relentless. Tireless. Without mercy.
+
+> They are the grey death. The end of all things.
+
+> We cannot fight them. We can only run.
+
+> But where can you run to when they are everywhere?
+
+> ...the sound of a billion metal wings...

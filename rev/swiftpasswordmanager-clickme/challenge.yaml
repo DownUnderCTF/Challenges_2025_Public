@@ -1,0 +1,17 @@
+version: '0.1'
+id: spm-clickme
+name: 'SwiftPasswordManager: ClickMe'
+category: rev
+description: |
+  This password manager app has a button labeled "Flag" but it doesn't seem to be clickable...
+
+  Author: joseph
+
+tags:
+  - easy
+
+files:
+  - ./publish/SwiftPasswordManager.zip
+
+flags:
+  - DUCTF{just_because_the_button_is_greyed_out_doesnt_mean_you_cant_use_it}

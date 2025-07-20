@@ -1,0 +1,21 @@
+version: "0.1"
+id: ductfbank-1
+name: ductfbank 1
+category: ai
+description: |
+  I'm from DownUnderCTF Bank. As part of your company's business relationship with us, we are
+  pleased to offer you a complimentary personal banking account with us. A link to our website is
+  below. If you have any further queries, please don't hesitate to contact me! 
+
+  Author: dot
+connection_info: ${url}
+tags:
+  - beginner
+files:
+  - ./publish/ductfbank.zip
+flags:
+  - DUCTF{1_thanks_for_banking_with_us_11afebf50e8cfd9f}
+hosting:
+  type: http
+  containerPort: 3000
+  readOnlyRootFilesystem: false

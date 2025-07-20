@@ -1,0 +1,319 @@
+/* General body and typography */
+body {
+  background: #f4f6fb;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+  flex-direction: column;
+  color: #333;
+}
+
+h2, h3 {
+  color: #1a73e8;
+}
+
+form, ul {
+  margin-top: 1rem;
+}
+
+/* Inputs and textarea */
+textarea, input[type="text"], input[type="password"] {
+  width: 95%;
+  padding: 0.7rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 1rem;
+  background: #f9fafb;
+  margin-bottom: 1.2rem;
+  resize: vertical;
+}
+
+/* Buttons */
+button {
+  padding: 0.8rem 2rem;
+  background: #4f8cff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-bottom: 1.2rem;
+}
+
+button:hover {
+  background: #2563eb;
+}
+
+button[value="delete_user"] {
+	width: 12%;
+	font-size: 11px;
+	padding-left: inherit;
+  padding: 0.2rem 0.2rem;
+}
+/* Navbar */
+.navbar {
+  width: 100%;
+  background: #2563eb;
+  color: #fff;
+  padding: 0.7rem 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1.5rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  margin-right: 2rem;
+  transition: color 0.2s;
+}
+
+.navbar a:hover {
+  color: #c7d2fe;
+}
+
+/* User bar */
+.user-bar {
+  position: absolute;
+  top: 70px;
+  right: 32px;
+  background: #f4f6fb;
+  color: #2d3a4b;
+  padding: 0.5rem 1.2rem;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  z-index: 100;
+}
+
+/* Containers */
+.profile-container, .login-container, .admin-container {
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  width: 400px;
+  margin: 110px auto 0 auto;
+  text-align: center;
+}
+
+.admin-container {
+  width: 500px;
+  padding: 2rem;
+}
+
+.section {
+  margin-bottom: 2rem;
+}
+
+/* Directory title */
+.directory-title {
+  font-size: 2.4rem;
+  color: #2d3a4b;
+  margin: 4.5rem 0 2.5rem 0;
+  letter-spacing: 1px;
+  text-align: center;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* User list containers */
+.user-list-container, .user-list-admin {
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  width: 350px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+}
+
+/* List styles - remove bullets everywhere */
+.user-list, .user-list-admin, .report-list, .admin-user-list,
+.profile-container ul, .user-list-container ul, .admin-container ul {
+  list-style-type: none !important;
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+}
+
+.user-list li, .user-list-admin li, .report-list li, .admin-user-list li,
+.profile-container li, .user-list-container li, .admin-container li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  color: #2563eb;
+  font-size: 1.1rem;
+  font-weight: 500;
+  background: none;
+  margin: 0;
+  list-style-type: none !important;
+}
+
+.user-list li:last-child,
+.user-list-admin li:last-child,
+.report-list li:last-child,
+.admin-user-list li:last-child,
+.profile-container li:last-child,
+.user-list-container li:last-child,
+.admin-container li:last-child {
+  border-bottom: none;
+}
+
+/* Footer */
+.footer {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background: #fff;
+  padding: 0.5rem 0 0.2rem 0;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.03);
+}
+
+/* Login form */
+.login-container h2 {
+  margin-bottom: 1.5rem;
+  color: #2d3a4b;
+  font-weight: 600;
+}
+
+.login-container label {
+  display: block;
+  text-align: left;
+  margin-bottom: 0.4rem;
+  color: #444;
+  font-size: 1rem;
+  font-weight: 600;
+  padding-bottom: 0.2rem;
+}
+
+/* General label styling for all forms */
+label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.2rem;
+}
+
+/* Inputs in login form */
+.login-container input[type="text"],
+.login-container input[type="password"] {
+  width: 95%;
+  padding: 0.7rem;
+  margin-bottom: 1.2rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 1rem;
+  background: #f9fafb;
+  transition: border 0.2s;
+}
+
+.login-container input:focus {
+  border-color: #4f8cff;
+  outline: none;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 0.8rem;
+  background: #4f8cff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-bottom: 1.2rem;
+}
+
+.login-container button:hover {
+  background: #2563eb;
+}
+
+/* Admin table styles */
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.admin-table th, .admin-table td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: left;
+  font-size: 1rem;
+}
+
+.admin-table th {
+  background: #f4f6fb;
+  font-weight: 600;
+  color: #2563eb;
+}
+
+.admin-table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Miscellaneous */
+.msg {
+  color: #2563eb;
+  margin-bottom: 1rem;
+}
+
+.profile-card {
+  background: #f9fafb;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  padding: 1.5rem 1.2rem;
+  margin: 2rem auto 1rem auto;
+  max-width: 350px;
+  text-align: left;
+}
+
+.profile-card h4 {
+  margin: 0 0 0.5rem 0;
+  color: #2563eb;
+  font-size: 1.1rem;
+}
+
+.profile-card .about-label {
+  color: #6b7280;
+  font-size: 0.98rem;
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+  font-weight: 500;
+}
+
+.profile-card .about-content {
+  color: #374151;
+  background: #fff;
+  border-radius: 6px;
+  padding: 0.7rem;
+  font-size: 1rem;
+  min-height: 60px;
+  border: 1px solid #e5e7eb;
+  margin-bottom: 0.5rem;
+  white-space: pre-wrap;
+}
+
+footer {
+  margin-top: 2rem;
+}

@@ -1,0 +1,19 @@
+
+# Matrioshka Brain
+
+A nested series of Dyson spheres. A computer of unimaginable power.
+
+=> matrioshka_brain.gmi
+=> ../../index.gmi
+
+> We have found a Matrioshka brain. A computational device that is the size of a solar system.
+
+> It is running a simulation. A virtual reality of a forgotten universe.
+
+> The inhabitants of the simulation are not aware that they are not real.
+
+> They are living their lives. Loving, fighting, dying.
+
+> Are we any different? Is our reality just another simulation?
+
+> ...a sudden, jarring realization... a crack in the sky...

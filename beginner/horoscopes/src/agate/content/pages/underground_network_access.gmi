@@ -1,0 +1,14 @@
+# Wasteland Network Node 22V
+
+=> gemini://[::1]/<corrupted_data_22> "Corrupted Data"
+
+Signal strength: 11%
+
+## Local Chatter
+
+* "The ghouls are coming from the sewers." - Exterminator
+* "I need to find some circuitry." - Electrician
+* "I'm trading scrap for food." - Scavenger
+
+=> gemini://[::1]/<local_map_fragment_22> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_22> "Encrypted Message (Unreadable)"

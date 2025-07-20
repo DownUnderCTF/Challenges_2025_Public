@@ -1,0 +1,17 @@
+version: "0.1"
+id: zeus
+name: zeus
+category: beginner
+description: |
+  To Zeus Maimaktes, Zeus who comes when the north wind blows, we offer our praise, we make you welcome!
+
+  Author: jzt
+
+tags:
+  - rev
+
+files:
+  - ./publish/zeus
+
+flags:
+  - DUCTF{king_of_the_olympian_gods_and_god_of_the_sky}

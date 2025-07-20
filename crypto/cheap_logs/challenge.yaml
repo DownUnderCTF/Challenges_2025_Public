@@ -1,0 +1,24 @@
+version: "0.1"
+id: cheap-logs
+name: cheap logs
+category: crypto
+description: |
+  mass massaging fragmented fragments
+
+  Author: wednesday
+
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - medium
+  - pwn
+
+files:
+  - ./publish/publish.tar.gz
+
+flags:
+  - DUCTF{fr4gm3nt3d_d1scr3t3_fr4gm3nt5_l0g5_m4ss_h34p_m4554g1ng_gr00m1ng}

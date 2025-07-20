@@ -1,0 +1,7 @@
+services:
+  rolling-around:
+    container_name: rolling-around
+    build: src/
+    # privileged: true
+    ports:
+      - 1337:1337

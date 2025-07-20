@@ -1,0 +1,18 @@
+version: "0.1"
+id: godot
+name: godot
+category: rev
+description: |
+  Vladimir and Estragon converse on various topics while they wait for a man named Godot. While they wait, Pozzo is on his way to the market to sell his slave, Lucky.
+
+  Author: jzt
+
+tags:
+  - medium
+
+files:
+  - ./publish/godot.tar.gz
+
+flags:
+  - {type: "static", content: "DUCTF{the_boy_will_never_remember}", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{the_boy_willnever_remember}", data: "case_insensitive"}

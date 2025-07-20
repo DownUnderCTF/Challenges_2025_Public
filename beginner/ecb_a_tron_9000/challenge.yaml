@@ -1,0 +1,21 @@
+version: "0.1"
+id: ecb-a-tron-9000
+name: ecb-a-tron-9000
+category: beginner
+description: |
+  I AM ECB A TRON 9000 FEED ME YOUR CODEBOOKS
+
+  Author: wednesday
+
+hosting:
+  type: kube
+  template: web-challenge.yaml
+
+hosting-type: kube
+connection_info: ${url}
+
+tags:
+  - crypto
+
+flags:
+  - DUCTF{DONTUSEECBPLEASE}

@@ -1,0 +1,25 @@
+version: "0.1"
+id: hungry-hungry-caterpillar
+name: hungry-hungry-caterpillar
+category: beginner
+description: |
+  Just like how the author confused chrysalides for cocoons, I always get the
+  title of this book confused.
+
+  NOTE: The flag format is `DUCTF{[a-z_]*}`
+
+  Author: wednesday
+
+hosting:
+  type: file
+
+tags:
+  - crypto
+
+files:
+  - ./publish/challenge.py
+  - ./publish/output.txt
+
+flags:
+  - DUCTF{the_hungry_little_p_smooth_caterpillar_wow_an_allegory_for_life}
+  - DUCTF{the_hungry_little_p_smooth_caterpillar_won_an_allegory_for_life}

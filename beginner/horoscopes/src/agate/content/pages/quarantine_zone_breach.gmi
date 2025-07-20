@@ -1,0 +1,14 @@
+# Wasteland Network Node 18R
+
+=> gemini://[::1]/<corrupted_data_18> "Corrupted Data"
+
+Signal strength: 18%
+
+## Local Chatter
+
+* "The ghouls are digging." - Prospector
+* "I need to find some oil." - Mechanic
+* "I'm trading meat for water." - Butcher
+
+=> gemini://[::1]/<local_map_fragment_18> "Map Fragment (Corrupted)"
+=> gemini://[::1]/<encrypted_message_18> "Encrypted Message (Unreadable)"

@@ -1,0 +1,22 @@
+version: "0.1"
+id: file-upload
+name: file-upload
+category: web
+description: |
+  Just a simple file upload, right?
+
+  Author: ssparrow
+
+hosting:
+  type: kube
+  mode: isolated
+  readOnlyRootFilesystem: false
+  template: { hostingTemplate }
+
+connection_info: ${url}
+
+tags:
+  - medium
+
+flags:
+  - DUCTF{what_the_javascript_36c66a87dc64c3c591202}

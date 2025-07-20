@@ -1,0 +1,19 @@
+
+# 2001: A Space Odyssey
+
+A journey to the origins of humanity.
+
+=> 2001_a_space_odyssey.gmi
+=> ../../index.gmi
+
+> I am beyond the infinite. I have seen the birth of stars and the death of worlds.
+
+> I have become something new. A star child.
+
+> I am returning to Earth. To the cradle of humanity.
+
+> But I am not the same. And neither is humanity.
+
+> A new age is dawning. An age of wonder and terror.
+
+> ...a single, cryptic image... a monolith...

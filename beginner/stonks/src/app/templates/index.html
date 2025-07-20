@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block headers %}
+<h1 class="rainbow rainbow_text_animated"> YOUR BALANCE {{ balance }} {{ currency }} </h1>
+{% endblock %}
+
+{% block content %}
+<a href="/change-currency"><h1 class="rainbow rainbow_text_animated">CLICK TO CHANGE YOUR CURRENCY</h1></a>
+<a href="/are-you-rich"><h1 class="rainbow rainbow_text_animated">CHECK IF YOU ARE RICH</h1></a>
+{% endblock %}
+
+{% block scripts %}
+{% endblock %}
+
+{% block boringheaders %}
+<h1 class="rainbow rainbow_text_animated"> YOUR BALANCE {{ balance }} {{ currency }} </h1>
+{% endblock %}
+
+{% block boringcontent %}
+<a href="/change-currency"><h1 class="rainbow rainbow_text_animated">CLICK TO CHANGE YOUR CURRENCY</h1></a>
+<a href="/are-you-rich"><h1 class="rainbow rainbow_text_animated">CHECK IF YOU ARE RICH</h1></a>
+{% endblock %}

@@ -1,0 +1,26 @@
+version: "0.1"
+id: for-golf-hard
+name: Forensics Golf
+category: misc
+description: |
+  If you thought the last forensics challenges was too easy then this one is for you. You only have a short time before the server dies so you need to get the flag off without reading too much.
+
+  Author: jscarsbrook
+
+hosting:
+  type: tcp
+  containerPort: 10809
+  readOnlyRootFilesystem: false
+
+connection_info: nc ${host} ${port}
+
+tags:
+  - hard
+
+files:
+  - ./publish/go.mod
+  - ./publish/go.sum
+  - ./publish/main.go
+
+flags:
+  - DUCTF{i_hope_you_learned_a_lot_about_ext4_31890143}

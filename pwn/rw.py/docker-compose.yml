@@ -1,0 +1,7 @@
+services:
+  rwpy:
+    container_name: rwpy
+    build: src/
+    privileged: true
+    ports:
+      - 1337:1337

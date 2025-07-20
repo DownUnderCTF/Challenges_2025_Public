@@ -1,0 +1,1 @@
+<?php $flag = 'DUCTF{h0w_d0_y0u_l1k3_y0ur_ph1lters?}'; ?>

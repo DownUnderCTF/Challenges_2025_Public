@@ -1,0 +1,21 @@
+version: "0.1"
+id: certvalidated
+name: certvalidated
+category: crypto
+description: |
+  How validated is your cert?
+
+  Author: joseph
+hosting_type: kube
+connection_info: nc ${host} ${port}
+tags:
+  - medium
+files:
+  - ./publish/certvalidated.py
+  - ./publish/Dockerfile
+  - ./publish/root.crt
+flags:
+  - DUCTF{d1d_y0u_just_f1nd_an_0day???}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

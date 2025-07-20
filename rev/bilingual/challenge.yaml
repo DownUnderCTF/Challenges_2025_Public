@@ -1,0 +1,17 @@
+version: "0.1"
+id: bilingual
+name: bilingual
+category: rev
+description: |
+  Two languages are better than one!
+
+  Author: FozzieBear (cybears)
+
+tags:
+  - medium
+
+files:
+  - ./publish/bilingual.py
+
+flags:
+  - DUCTF{the_problem_with_dynamic_languages_is_you_cant_c_types}
